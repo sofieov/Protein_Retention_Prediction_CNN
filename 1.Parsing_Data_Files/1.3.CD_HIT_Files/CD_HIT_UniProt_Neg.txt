@@ -1,0 +1,3774 @@
+>Cluster 0
+0	13100aa, >sp|Q09165|Negative... *
+>Cluster 1
+0	5654aa, >sp|P98088|Negative... *
+>Cluster 2
+0	5634aa, >sp|D3YXG0|Negative... *
+>Cluster 3
+0	5100aa, >sp|A2AJ76|Negative... *
+>Cluster 4
+0	4743aa, >sp|Q7TMA5|Negative... *
+1	4563aa, >sp|P04114|Negative... at 46.02%
+>Cluster 5
+0	3375aa, >sp|Q06561|Negative... *
+>Cluster 6
+0	2910aa, >sp|O55225|Negative... *
+>Cluster 7
+0	2907aa, >sp|Q61555|Negative... *
+1	2871aa, >sp|P35555|Negative... at 68.86%
+2	2809aa, >sp|Q75N90|Negative... at 64.36%
+3	2873aa, >sp|Q61554|Negative... at 68.99%
+>Cluster 8
+0	2898aa, >sp|Q868Z9|Negative... *
+>Cluster 9
+0	2828aa, >sp|Q9NR99|Negative... *
+>Cluster 10
+0	2813aa, >sp|Q28295|Negative... *
+1	2813aa, >sp|P04275|Negative... at 86.14%
+>Cluster 11
+0	2680aa, >sp|Q80Z19|Negative... *
+>Cluster 12
+0	2640aa, >sp|A6H584|Negative... *
+1	2265aa, >sp|Q8C6K9|Negative... at 45.52%
+>Cluster 13
+0	2623aa, >sp|Q6WRI0|Negative... *
+>Cluster 14
+0	2616aa, >sp|P98159|Negative... *
+>Cluster 15
+0	2327aa, >sp|Q9IBG7|Negative... *
+1	1550aa, >sp|Q3U492|Negative... at 40.13%
+>Cluster 16
+0	2312aa, >sp|B9EKR1|Negative... *
+>Cluster 17
+0	2213aa, >sp|Q95209|Negative... *
+>Cluster 18
+0	2191aa, >sp|Q684R7|Negative... *
+>Cluster 19
+0	2188aa, >sp|Q9VMD9|Negative... *
+>Cluster 20
+0	2169aa, >sp|Q99102|Negative... *
+>Cluster 21
+0	2167aa, >sp|O76840|Negative... *
+>Cluster 22
+0	2155aa, >sp|O08523|Negative... *
+>Cluster 23
+0	2150aa, >sp|Q19791|Negative... *
+>Cluster 24
+0	2100aa, >sp|A0A1D8PQB9|Negative... *
+1	1260aa, >sp|Q5A8T4|Negative... at 58.41%
+2	1155aa, >sp|Q59L12|Negative... at 63.55%
+>Cluster 25
+0	2081aa, >sp|P31696|Negative... *
+1	2068aa, >sp|O00468|Negative... at 59.72%
+>Cluster 26
+0	1935aa, >sp|Q9P2N4|Negative... *
+>Cluster 27
+0	1845aa, >sp|Q5QNQ9|Negative... *
+>Cluster 28
+0	1842aa, >sp|Q28019|Negative... *
+1	1821aa, >sp|Q14767|Negative... at 81.33%
+>Cluster 29
+0	1754aa, >sp|P39060|Negative... at 70.13%
+1	1774aa, >sp|P39061|Negative... *
+>Cluster 30
+0	1691aa, >sp|P82987|Negative... at 40.63%
+1	1762aa, >sp|Q8N6G6|Negative... *
+>Cluster 31
+0	1669aa, >sp|Q9QZS0|Negative... at 48.29%
+1	1669aa, >sp|P02463|Negative... at 49.97%
+2	1758aa, >sp|P17140|Negative... *
+3	1682aa, >sp|Q9QZR9|Negative... at 48.57%
+>Cluster 32
+0	298aa, >sp|P47178|Negative... at 42.95%
+1	1713aa, >sp|Q8TGE1|Negative... *
+>Cluster 33
+0	1657aa, >sp|Q9UPZ6|Negative... *
+>Cluster 34
+0	1657aa, >sp|Q68SA9|Negative... *
+>Cluster 35
+0	1648aa, >sp|Q94637|Negative... *
+>Cluster 36
+0	1641aa, >sp|Q7Z1M0|Negative... *
+>Cluster 37
+0	1627aa, >sp|Q13219|Negative... *
+>Cluster 38
+0	1624aa, >sp|Q8N2S1|Negative... *
+>Cluster 39
+0	1609aa, >sp|P25653|Negative... *
+>Cluster 40
+0	1604aa, >sp|Q07092|Negative... *
+>Cluster 41
+0	1594aa, >sp|Q95218|Negative... *
+1	1418aa, >sp|Q8CIZ5|Negative... at 40.69%
+>Cluster 42
+0	1590aa, >sp|P18171|Negative... *
+1	950aa, >sp|P18170|Negative... at 99.47%
+2	1208aa, >sp|P18169|Negative... at 83.44%
+>Cluster 43
+0	1584aa, >sp|O14514|Negative... *
+>Cluster 44
+0	1249aa, >sp|Q59XA7|Negative... at 43.71%
+1	1308aa, >sp|Q5A1E0|Negative... at 41.90%
+2	1562aa, >sp|Q5A5M7|Negative... *
+>Cluster 45
+0	1299aa, >sp|Q9UQP3|Negative... at 64.74%
+1	1560aa, >sp|Q80Z71|Negative... *
+>Cluster 46
+0	1535aa, >sp|Q9VPF0|Negative... *
+>Cluster 47
+0	1529aa, >sp|O94813|Negative... *
+>Cluster 48
+0	1526aa, >sp|Q5AAL9|Negative... *
+1	941aa, >sp|Q5A029|Negative... at 44.63%
+2	941aa, >sp|Q5A6U1|Negative... at 44.42%
+>Cluster 49
+0	1504aa, >sp|P24014|Negative... *
+>Cluster 50
+0	1487aa, >sp|Q03626|Negative... at 51.92%
+1	1500aa, >sp|Q63041|Negative... *
+2	1474aa, >sp|P01023|Negative... at 49.73%
+>Cluster 51
+0	1479aa, >sp|B6KV60|Negative... *
+>Cluster 52
+0	1479aa, >sp|Q92626|Negative... *
+1	1475aa, >sp|Q3UQ28|Negative... at 91.05%
+>Cluster 53
+0	1460aa, >sp|Q7SZN0|Negative... *
+1	1459aa, >sp|Q58L91|Negative... at 96.30%
+>Cluster 54
+0	1454aa, >sp|A8K2U0|Negative... *
+>Cluster 55
+0	1429aa, >sp|O75882|Negative... *
+>Cluster 56
+0	1427aa, >sp|Q76LX8|Negative... *
+1	1426aa, >sp|Q769J6|Negative... at 70.27%
+>Cluster 57
+0	1404aa, >sp|Q92954|Negative... *
+>Cluster 58
+0	1371aa, >sp|Q8BV57|Negative... *
+>Cluster 59
+0	1347aa, >sp|Q5A8T7|Negative... at 81.89%
+1	1366aa, >sp|Q5A2Z7|Negative... *
+>Cluster 60
+0	1338aa, >sp|P17948|Negative... *
+>Cluster 61
+0	1319aa, >sp|O45599|Negative... *
+>Cluster 62
+0	1256aa, >sp|Q810U4|Negative... *
+>Cluster 63
+0	1225aa, >sp|Q5A849|Negative... *
+>Cluster 64
+0	1184aa, >sp|O75339|Negative... *
+1	1156aa, >sp|Q8IUL8|Negative... at 46.63%
+>Cluster 65
+0	1184aa, >sp|Q9NPG4|Negative... *
+>Cluster 66
+0	1170aa, >sp|P07996|Negative... *
+>Cluster 67
+0	1169aa, >sp|G5EC21|Negative... *
+>Cluster 68
+0	1156aa, >sp|Q86VB7|Negative... *
+>Cluster 69
+0	1117aa, >sp|P53753|Negative... at 43.96%
+1	1145aa, >sp|Q5AIR7|Negative... *
+>Cluster 70
+0	1142aa, >sp|O97939|Negative... *
+>Cluster 71
+0	1141aa, >sp|Q2UY11|Negative... *
+>Cluster 72
+0	1130aa, >sp|P86956|Negative... at 91.86%
+1	1135aa, >sp|H2A0L6|Negative... *
+>Cluster 73
+0	1128aa, >sp|Q640N1|Negative... *
+>Cluster 74
+0	1124aa, >sp|Q02763|Negative... *
+>Cluster 75
+0	1103aa, >sp|Q9H324|Negative... *
+>Cluster 76
+0	1085aa, >sp|Q59XL0|Negative... *
+>Cluster 77
+0	1078aa, >sp|Q5AAU5|Negative... *
+>Cluster 78
+0	1075aa, >sp|P38894|Negative... *
+>Cluster 79
+0	1074aa, >sp|Q6UY14|Negative... *
+>Cluster 80
+0	1059aa, >sp|P13635|Negative... *
+>Cluster 81
+0	1054aa, >sp|D4B5H9|Negative... *
+>Cluster 82
+0	1047aa, >sp|Q9VZH2|Negative... *
+>Cluster 83
+0	1045aa, >sp|P90884|Negative... *
+>Cluster 84
+0	1026aa, >sp|Q62845|Negative... *
+>Cluster 85
+0	1019aa, >sp|P12110|Negative... *
+>Cluster 86
+0	986aa, >sp|P13497|Negative... at 70.59%
+1	991aa, >sp|P98063|Negative... at 70.43%
+2	1019aa, >sp|O57382|Negative... *
+3	1008aa, >sp|Q9DER7|Negative... at 71.83%
+>Cluster 87
+0	241aa, >sp|Q59UT4|Negative... at 48.96%
+1	147aa, >sp|Q5A0X8|Negative... at 53.06%
+2	1018aa, >sp|G1UB63|Negative... *
+3	250aa, >sp|Q59UP6|Negative... at 46.80%
+4	219aa, >sp|Q59UT5|Negative... at 41.10%
+>Cluster 88
+0	1018aa, >sp|Q3UTY6|Negative... *
+>Cluster 89
+0	1017aa, >sp|Q4VBE4|Negative... *
+>Cluster 90
+0	1016aa, >sp|Q9Y6C2|Negative... *
+>Cluster 91
+0	1012aa, >sp|Q9UEF7|Negative... at 85.97%
+1	1014aa, >sp|O35082|Negative... *
+>Cluster 92
+0	1014aa, >sp|H2A0N4|Negative... *
+>Cluster 93
+0	1004aa, >sp|P79953|Negative... *
+>Cluster 94
+0	988aa, >sp|Q8IWY4|Negative... at 66.50%
+1	993aa, >sp|Q8IX30|Negative... *
+>Cluster 95
+0	984aa, >sp|B6KJ32|Negative... *
+>Cluster 96
+0	983aa, >sp|P29320|Negative... *
+>Cluster 97
+0	966aa, >sp|P02674|Negative... *
+>Cluster 98
+0	963aa, >sp|Q9Z1T2|Negative... *
+>Cluster 99
+0	958aa, >sp|Q09101|Negative... *
+>Cluster 100
+0	957aa, >sp|Q96P44|Negative... *
+>Cluster 101
+0	949aa, >sp|Q9H8L6|Negative... *
+>Cluster 102
+0	949aa, >sp|Q8R2G6|Negative... *
+>Cluster 103
+0	937aa, >sp|O74168|Negative... *
+1	931aa, >sp|Q9UUZ3|Negative... at 61.98%
+>Cluster 104
+0	931aa, >sp|O60462|Negative... *
+>Cluster 105
+0	930aa, >sp|Q9UNA0|Negative... *
+>Cluster 106
+0	930aa, >sp|D4AR77|Negative... *
+>Cluster 107
+0	924aa, >sp|Q59KZ1|Negative... *
+>Cluster 108
+0	924aa, >sp|D4AUF1|Negative... *
+>Cluster 109
+0	921aa, >sp|P79263|Negative... *
+1	916aa, >sp|Q3T052|Negative... at 76.09%
+>Cluster 110
+0	919aa, >sp|Q5AL03|Negative... *
+>Cluster 111
+0	918aa, >sp|P40189|Negative... *
+>Cluster 112
+0	914aa, >sp|A8K7I4|Negative... *
+1	913aa, >sp|Q9D7Z6|Negative... at 75.68%
+2	262aa, >sp|Q9Y6N3|Negative... at 53.44%
+>Cluster 113
+0	910aa, >sp|Q5T601|Negative... *
+>Cluster 114
+0	909aa, >sp|D4AZ24|Negative... *
+>Cluster 115
+0	908aa, >sp|Q59PF9|Negative... *
+>Cluster 116
+0	882aa, >sp|D4AUH1|Negative... at 49.43%
+1	892aa, >sp|Q4R1C4|Negative... *
+>Cluster 117
+0	890aa, >sp|D4B1B1|Negative... *
+>Cluster 118
+0	887aa, >sp|Q64610|Negative... at 90.53%
+1	863aa, >sp|Q13822|Negative... at 69.18%
+2	862aa, >sp|Q9R1E6|Negative... at 68.91%
+3	888aa, >sp|A1A4K5|Negative... *
+>Cluster 119
+0	878aa, >sp|D4B0V1|Negative... *
+>Cluster 120
+0	866aa, >sp|Q96F46|Negative... *
+>Cluster 121
+0	866aa, >sp|P02671|Negative... *
+1	789aa, >sp|E9PV24|Negative... at 42.21%
+>Cluster 122
+0	865aa, >sp|D4B0X3|Negative... *
+>Cluster 123
+0	862aa, >sp|D4AMT2|Negative... *
+>Cluster 124
+0	277aa, >sp|Q80WM7|Negative... at 45.49%
+1	855aa, >sp|Q5K4E3|Negative... *
+>Cluster 125
+0	843aa, >sp|Q9TUQ3|Negative... *
+>Cluster 126
+0	843aa, >sp|Q8L7W8|Negative... *
+>Cluster 127
+0	839aa, >sp|P80109|Negative... *
+>Cluster 128
+0	683aa, >sp|Q15582|Negative... at 46.56%
+1	683aa, >sp|O11780|Negative... at 45.53%
+2	836aa, >sp|Q15063|Negative... at 90.07%
+3	838aa, >sp|Q62009|Negative... *
+>Cluster 129
+0	825aa, >sp|Q873Y0|Negative... *
+>Cluster 130
+0	825aa, >sp|Q9P2K2|Negative... *
+>Cluster 131
+0	820aa, >sp|D4AN50|Negative... *
+>Cluster 132
+0	819aa, >sp|Q13443|Negative... *
+>Cluster 133
+0	816aa, >sp|P11995|Negative... *
+1	772aa, >sp|P11997|Negative... at 49.22%
+>Cluster 134
+0	816aa, >sp|Q62918|Negative... *
+>Cluster 135
+0	812aa, >sp|Q27394|Negative... *
+>Cluster 136
+0	810aa, >sp|P00747|Negative... *
+>Cluster 137
+0	809aa, >sp|Q9VEG6|Negative... *
+>Cluster 138
+0	804aa, >sp|B6EY09|Negative... *
+>Cluster 139
+0	797aa, >sp|Q28193|Negative... *
+1	638aa, >sp|P16519|Negative... at 44.83%
+>Cluster 140
+0	793aa, >sp|H2A0M7|Negative... *
+>Cluster 141
+0	786aa, >sp|A4QUT2|Negative... *
+>Cluster 142
+0	786aa, >sp|P15502|Negative... *
+>Cluster 143
+0	781aa, >sp|H2A0M3|Negative... *
+>Cluster 144
+0	778aa, >sp|D4APE2|Negative... *
+1	765aa, >sp|B0Y6C5|Negative... at 63.66%
+2	775aa, >sp|Q5J6J3|Negative... at 97.55%
+3	771aa, >sp|Q2UH35|Negative... at 61.48%
+>Cluster 145
+0	778aa, >sp|Q8BR86|Negative... *
+>Cluster 146
+0	777aa, >sp|Q9MAP5|Negative... *
+1	774aa, >sp|Q9MAP7|Negative... at 82.69%
+>Cluster 147
+0	776aa, >sp|B1A4F7|Negative... *
+1	775aa, >sp|B2D0J4|Negative... at 53.81%
+>Cluster 148
+0	774aa, >sp|Q9Y4K0|Negative... at 87.21%
+1	754aa, >sp|Q9Z175|Negative... at 55.04%
+2	776aa, >sp|B5DF27|Negative... *
+3	753aa, >sp|P58215|Negative... at 55.11%
+>Cluster 149
+0	774aa, >sp|Q84WS0|Negative... *
+1	757aa, >sp|O65351|Negative... at 46.76%
+>Cluster 150
+0	770aa, >sp|D4ATR3|Negative... *
+>Cluster 151
+0	769aa, >sp|Q9LNU1|Negative... *
+>Cluster 152
+0	765aa, >sp|Q93243|Negative... *
+>Cluster 153
+0	762aa, >sp|Q6NUI6|Negative... *
+1	748aa, >sp|E9Q7T7|Negative... at 82.35%
+>Cluster 154
+0	225aa, >sp|P86861|Negative... at 40.44%
+1	624aa, >sp|H2A0L8|Negative... at 44.87%
+2	754aa, >sp|H2A0L7|Negative... *
+>Cluster 155
+0	746aa, >sp|Q3V1G4|Negative... *
+>Cluster 156
+0	745aa, >sp|O77726|Negative... *
+1	713aa, >sp|P20239|Negative... at 59.47%
+>Cluster 157
+0	431aa, >sp|Q9FS16|Negative... at 42.00%
+1	744aa, >sp|O65375|Negative... *
+>Cluster 158
+0	743aa, >sp|F1NSM7|Negative... *
+>Cluster 159
+0	741aa, >sp|P14448|Negative... *
+>Cluster 160
+0	736aa, >sp|A2QTU5|Negative... *
+>Cluster 161
+0	735aa, >sp|Q9NDE8|Negative... *
+>Cluster 162
+0	728aa, >sp|O77469|Negative... *
+>Cluster 163
+0	728aa, >sp|Q9R1J8|Negative... *
+>Cluster 164
+0	727aa, >sp|D4B1R0|Negative... *
+>Cluster 165
+0	726aa, >sp|D4ARB1|Negative... *
+1	726aa, >sp|Q9UW98|Negative... at 98.35%
+>Cluster 166
+0	725aa, >sp|P32323|Negative... *
+>Cluster 167
+0	721aa, >sp|Q59TP1|Negative... *
+>Cluster 168
+0	721aa, >sp|Q9VTH0|Negative... *
+>Cluster 169
+0	720aa, >sp|D4AUF4|Negative... *
+>Cluster 170
+0	716aa, >sp|D4AYS6|Negative... *
+>Cluster 171
+0	714aa, >sp|Q59XB0|Negative... *
+>Cluster 172
+0	712aa, >sp|P80025|Negative... *
+1	712aa, >sp|P22079|Negative... at 83.01%
+2	712aa, >sp|A5JUY8|Negative... at 99.44%
+3	710aa, >sp|Q8R481|Negative... at 77.61%
+>Cluster 173
+0	708aa, >sp|Q7YSJ4|Negative... *
+>Cluster 174
+0	705aa, >sp|P00736|Negative... *
+1	487aa, >sp|Q9NZP8|Negative... at 42.30%
+>Cluster 175
+0	704aa, >sp|Q9VA70|Negative... *
+>Cluster 176
+0	699aa, >sp|P48740|Negative... at 86.84%
+1	704aa, >sp|P98064|Negative... *
+2	704aa, >sp|Q8CHN8|Negative... at 95.45%
+>Cluster 177
+0	701aa, >sp|Q16820|Negative... *
+>Cluster 178
+0	700aa, >sp|Q8CIT9|Negative... *
+>Cluster 179
+0	700aa, >sp|Q7TN16|Negative... *
+>Cluster 180
+0	700aa, >sp|Q9DBD0|Negative... *
+>Cluster 181
+0	698aa, >sp|Q6ZRP7|Negative... *
+1	613aa, >sp|O08841|Negative... at 40.95%
+>Cluster 182
+0	696aa, >sp|Q96PX8|Negative... *
+>Cluster 183
+0	693aa, >sp|Q9Y653|Negative... *
+>Cluster 184
+0	687aa, >sp|G9M8X1|Negative... *
+>Cluster 185
+0	687aa, >sp|D4AQ27|Negative... *
+>Cluster 186
+0	686aa, >sp|Q8CG85|Negative... *
+>Cluster 187
+0	686aa, >sp|H2A0M0|Negative... *
+>Cluster 188
+0	685aa, >sp|Q8N8U9|Negative... *
+1	685aa, >sp|Q8CJ69|Negative... at 92.70%
+>Cluster 189
+0	681aa, >sp|Q8BHP7|Negative... *
+>Cluster 190
+0	680aa, >sp|P23352|Negative... *
+>Cluster 191
+0	678aa, >sp|Q14393|Negative... *
+1	674aa, >sp|Q63772|Negative... at 82.49%
+>Cluster 192
+0	676aa, >sp|Q95JC9|Negative... *
+1	392aa, >sp|P04280|Negative... at 45.15%
+2	295aa, >sp|P10165|Negative... at 47.46%
+>Cluster 193
+0	649aa, >sp|Q8BGT1|Negative... at 58.71%
+1	660aa, >sp|Q8BLU0|Negative... at 43.64%
+2	674aa, >sp|Q6RKD8|Negative... *
+>Cluster 194
+0	673aa, >sp|Q6EMK4|Negative... *
+>Cluster 195
+0	673aa, >sp|Q8T115|Negative... *
+1	656aa, >sp|Q95P08|Negative... at 52.90%
+2	659aa, >sp|Q8IFJ8|Negative... at 51.14%
+3	668aa, >sp|Q95P07|Negative... at 54.19%
+>Cluster 196
+0	671aa, >sp|B8YG19|Negative... *
+>Cluster 197
+0	671aa, >sp|Q9VUX3|Negative... *
+>Cluster 198
+0	670aa, >sp|J3S6Y1|Negative... *
+>Cluster 199
+0	670aa, >sp|Q5FW85|Negative... *
+>Cluster 200
+0	668aa, >sp|D4AYG1|Negative... *
+>Cluster 201
+0	668aa, >sp|P30203|Negative... *
+>Cluster 202
+0	666aa, >sp|D4B093|Negative... *
+>Cluster 203
+0	664aa, >sp|Q4WZB4|Negative... *
+>Cluster 204
+0	661aa, >sp|P05160|Negative... *
+>Cluster 205
+0	661aa, >sp|Q9NQ79|Negative... *
+>Cluster 206
+0	655aa, >sp|Q7K5M0|Negative... *
+>Cluster 207
+0	653aa, >sp|G1UBC2|Negative... *
+>Cluster 208
+0	652aa, >sp|Q99109|Negative... *
+>Cluster 209
+0	652aa, >sp|O54858|Negative... *
+1	457aa, >sp|Q9JJN5|Negative... at 46.83%
+2	652aa, >sp|Q66K79|Negative... at 82.98%
+3	476aa, >sp|P15087|Negative... at 43.91%
+>Cluster 210
+0	652aa, >sp|Q8NK92|Negative... *
+>Cluster 211
+0	650aa, >sp|Q8VHI5|Negative... *
+>Cluster 212
+0	299aa, >sp|A6NI73|Negative... at 47.16%
+1	650aa, >sp|Q8NHL6|Negative... *
+>Cluster 213
+0	633aa, >sp|Q6WIH3|Negative... at 62.72%
+1	632aa, >sp|Q8J0D5|Negative... at 60.76%
+2	633aa, >sp|B6V9X0|Negative... at 62.56%
+3	643aa, >sp|Q8NIJ4|Negative... at 73.25%
+4	635aa, >sp|Q8NIB6|Negative... at 61.10%
+5	643aa, >sp|Q6WIH1|Negative... at 73.87%
+6	633aa, >sp|B8XGR5|Negative... at 62.40%
+7	649aa, >sp|Q6WIH4|Negative... *
+8	633aa, >sp|Q6WIH8|Negative... at 62.40%
+9	643aa, >sp|B6V874|Negative... at 73.41%
+10	633aa, >sp|Q8NIH1|Negative... at 60.35%
+11	643aa, >sp|D4AX35|Negative... at 74.18%
+12	633aa, >sp|D4AL88|Negative... at 62.24%
+13	635aa, >sp|D4B1S5|Negative... at 61.26%
+14	633aa, >sp|Q8J0D6|Negative... at 63.19%
+>Cluster 214
+0	643aa, >sp|D4ANV2|Negative... *
+>Cluster 215
+0	640aa, >sp|P07911|Negative... at 76.88%
+1	642aa, >sp|Q91X17|Negative... *
+>Cluster 216
+0	633aa, >sp|D4APX3|Negative... *
+>Cluster 217
+0	631aa, >sp|U6A629|Negative... *
+>Cluster 218
+0	627aa, >sp|Q04519|Negative... at 82.78%
+1	631aa, >sp|P17405|Negative... *
+>Cluster 219
+0	630aa, >sp|Q40161|Negative... *
+1	626aa, >sp|P92990|Negative... at 60.06%
+>Cluster 220
+0	630aa, >sp|Q9VLJ6|Negative... *
+>Cluster 221
+0	629aa, >sp|D4AQ54|Negative... *
+>Cluster 222
+0	629aa, >sp|Q9VCR3|Negative... *
+>Cluster 223
+0	628aa, >sp|Q9VER6|Negative... *
+>Cluster 224
+0	628aa, >sp|A0A060XQP6|Negative... *
+>Cluster 225
+0	628aa, >sp|Q8NK90|Negative... *
+>Cluster 226
+0	628aa, >sp|Q9HB63|Negative... *
+>Cluster 227
+0	627aa, >sp|I6M4H4|Negative... *
+>Cluster 228
+0	624aa, >sp|J9VY90|Negative... *
+1	594aa, >sp|J9VQZ4|Negative... at 75.93%
+2	624aa, >sp|Q55P57|Negative... at 90.06%
+>Cluster 229
+0	499aa, >sp|P30292|Negative... at 58.92%
+1	512aa, >sp|P19269|Negative... at 55.08%
+2	624aa, >sp|Q01117|Negative... *
+>Cluster 230
+0	622aa, >sp|Q22328|Negative... *
+>Cluster 231
+0	618aa, >sp|Q8X151|Negative... *
+1	618aa, >sp|Q8X150|Negative... at 98.71%
+2	617aa, >sp|P0CT92|Negative... at 77.31%
+>Cluster 232
+0	618aa, >sp|Q23498|Negative... *
+>Cluster 233
+0	617aa, >sp|P20156|Negative... *
+1	615aa, >sp|O15240|Negative... at 87.32%
+>Cluster 234
+0	609aa, >sp|Q10749|Negative... at 57.80%
+1	616aa, >sp|Q90495|Negative... *
+2	477aa, >sp|Q072L5|Negative... at 63.10%
+3	606aa, >sp|Q98UF9|Negative... at 65.18%
+4	613aa, >sp|Q2UXQ5|Negative... at 64.11%
+5	612aa, >sp|Q90ZI3|Negative... at 62.25%
+6	610aa, >sp|P0C7B0|Negative... at 64.26%
+7	609aa, >sp|Q90282|Negative... at 65.19%
+>Cluster 235
+0	616aa, >sp|D4AYT4|Negative... *
+>Cluster 236
+0	613aa, >sp|A2VD23|Negative... *
+>Cluster 237
+0	559aa, >sp|Q6P3Y9|Negative... at 47.76%
+1	611aa, >sp|Q7TQ62|Negative... *
+>Cluster 238
+0	610aa, >sp|P0DN29|Negative... *
+>Cluster 239
+0	607aa, >sp|Q55GS3|Negative... *
+>Cluster 240
+0	607aa, >sp|Q3T478|Negative... *
+>Cluster 241
+0	605aa, >sp|D4AUH6|Negative... *
+>Cluster 242
+0	580aa, >sp|Q9R1A3|Negative... at 53.28%
+1	604aa, >sp|O09118|Negative... *
+>Cluster 243
+0	596aa, >sp|D4ANG0|Negative... at 46.48%
+1	600aa, >sp|D4AIK6|Negative... at 44.33%
+2	596aa, >sp|Q70GH4|Negative... at 45.47%
+3	602aa, >sp|Q70J59|Negative... *
+4	594aa, >sp|Q4WQU0|Negative... at 45.62%
+>Cluster 244
+0	602aa, >sp|P06276|Negative... *
+>Cluster 245
+0	594aa, >sp|Q3L1D1|Negative... at 75.08%
+1	600aa, >sp|V5NC32|Negative... at 76.00%
+2	602aa, >sp|Q3L245|Negative... *
+>Cluster 246
+0	599aa, >sp|P43652|Negative... *
+>Cluster 247
+0	597aa, >sp|Q9FF55|Negative... *
+>Cluster 248
+0	595aa, >sp|D4AXL1|Negative... *
+>Cluster 249
+0	595aa, >sp|Q5MFV8|Negative... *
+>Cluster 250
+0	535aa, >sp|Q6YGZ1|Negative... at 42.06%
+1	592aa, >sp|Q8WWQ2|Negative... *
+>Cluster 251
+0	592aa, >sp|O49006|Negative... *
+1	584aa, >sp|P83948|Negative... at 69.01%
+>Cluster 252
+0	592aa, >sp|D4B3C8|Negative... *
+>Cluster 253
+0	589aa, >sp|Q63751|Negative... at 70.63%
+1	591aa, >sp|Q80XI7|Negative... *
+>Cluster 254
+0	590aa, >sp|P98137|Negative... *
+>Cluster 255
+0	589aa, >sp|P28798|Negative... *
+>Cluster 256
+0	588aa, >sp|P07713|Negative... *
+>Cluster 257
+0	588aa, >sp|D4AS41|Negative... *
+>Cluster 258
+0	587aa, >sp|Q9SU40|Negative... *
+>Cluster 259
+0	586aa, >sp|Q43867|Negative... *
+>Cluster 260
+0	585aa, >sp|P98136|Negative... *
+>Cluster 261
+0	574aa, >sp|O70513|Negative... at 67.60%
+1	585aa, >sp|Q08380|Negative... *
+2	577aa, >sp|Q07797|Negative... at 69.15%
+>Cluster 262
+0	584aa, >sp|D4B387|Negative... *
+>Cluster 263
+0	584aa, >sp|Q8IXL6|Negative... *
+1	579aa, >sp|Q5MJS3|Negative... at 87.22%
+2	541aa, >sp|Q8CID3|Negative... at 43.62%
+>Cluster 264
+0	583aa, >sp|Q13740|Negative... *
+>Cluster 265
+0	578aa, >sp|Q5Y808|Negative... *
+>Cluster 266
+0	572aa, >sp|Q8VYW6|Negative... at 83.57%
+1	578aa, >sp|Q680I5|Negative... *
+>Cluster 267
+0	575aa, >sp|P28039|Negative... *
+1	574aa, >sp|O35298|Negative... at 76.48%
+>Cluster 268
+0	77aa, >sp|Q8T0W4|Negative... at 40.26%
+1	78aa, >sp|B2G331|Negative... at 44.87%
+2	571aa, >sp|Q7TQN3|Negative... *
+>Cluster 269
+0	569aa, >sp|P14778|Negative... *
+>Cluster 270
+0	569aa, >sp|Q2VPA4|Negative... *
+>Cluster 271
+0	569aa, >sp|B6KAM0|Negative... *
+>Cluster 272
+0	569aa, >sp|Q5FYB1|Negative... *
+>Cluster 273
+0	568aa, >sp|Q9NL38|Negative... *
+1	447aa, >sp|Q27908|Negative... at 54.59%
+>Cluster 274
+0	568aa, >sp|Q8TB73|Negative... *
+1	568aa, >sp|Q8C119|Negative... at 87.50%
+>Cluster 275
+0	567aa, >sp|P40954|Negative... *
+1	462aa, >sp|Q5AAH2|Negative... at 42.42%
+2	562aa, >sp|P29029|Negative... at 43.24%
+>Cluster 276
+0	565aa, >sp|D4B1Z7|Negative... *
+>Cluster 277
+0	564aa, >sp|Q10916|Negative... *
+>Cluster 278
+0	564aa, >sp|D4B1N9|Negative... *
+>Cluster 279
+0	564aa, >sp|E0D877|Negative... *
+>Cluster 280
+0	563aa, >sp|D4ASH1|Negative... *
+>Cluster 281
+0	563aa, >sp|Q9H9K5|Negative... *
+>Cluster 282
+0	561aa, >sp|Q91V88|Negative... *
+>Cluster 283
+0	560aa, >sp|Q14520|Negative... *
+>Cluster 284
+0	554aa, >sp|Q62930|Negative... at 66.25%
+1	559aa, >sp|P02748|Negative... *
+>Cluster 285
+0	559aa, >sp|Q01772|Negative... *
+>Cluster 286
+0	542aa, >sp|Q9P378|Negative... at 51.48%
+1	510aa, >sp|O13692|Negative... at 42.75%
+2	559aa, >sp|P22146|Negative... *
+3	545aa, >sp|D4ATC3|Negative... at 44.77%
+>Cluster 287
+0	557aa, >sp|Q61207|Negative... *
+1	554aa, >sp|P10960|Negative... at 88.63%
+>Cluster 288
+0	557aa, >sp|Q9JIA1|Negative... *
+1	557aa, >sp|O95970|Negative... at 96.95%
+2	557aa, >sp|Q8K4Y5|Negative... at 99.28%
+>Cluster 289
+0	557aa, >sp|Q968Z6|Negative... *
+>Cluster 290
+0	555aa, >sp|Q5BD29|Negative... *
+>Cluster 291
+0	554aa, >sp|B3A0N5|Negative... *
+>Cluster 292
+0	554aa, >sp|P35763|Negative... *
+>Cluster 293
+0	553aa, >sp|Q2L4Q9|Negative... *
+>Cluster 294
+0	551aa, >sp|Q93796|Negative... *
+>Cluster 295
+0	550aa, >sp|O43405|Negative... *
+>Cluster 296
+0	550aa, >sp|Q9JJZ5|Negative... *
+>Cluster 297
+0	530aa, >sp|Q9SUC6|Negative... at 44.91%
+1	532aa, >sp|Q9FKV2|Negative... at 45.11%
+2	541aa, >sp|Q9LPC3|Negative... at 44.18%
+3	535aa, >sp|Q9FI25|Negative... at 43.55%
+4	531aa, >sp|Q9SA86|Negative... at 45.20%
+5	544aa, >sp|A6P6V9|Negative... at 84.01%
+6	545aa, >sp|Q8GTB6|Negative... *
+>Cluster 298
+0	544aa, >sp|Q59SU1|Negative... *
+>Cluster 299
+0	542aa, >sp|P53189|Negative... *
+>Cluster 300
+0	541aa, >sp|A2QEQ6|Negative... *
+>Cluster 301
+0	540aa, >sp|Q00193|Negative... *
+>Cluster 302
+0	526aa, >sp|D4B1S6|Negative... at 92.97%
+1	538aa, >sp|A6XHF7|Negative... *
+>Cluster 303
+0	537aa, >sp|Q76HP6|Negative... *
+>Cluster 304
+0	537aa, >sp|D4AS70|Negative... *
+>Cluster 305
+0	537aa, >sp|Q29016|Negative... *
+>Cluster 306
+0	537aa, >sp|P91863|Negative... *
+>Cluster 307
+0	535aa, >sp|Q6IWZ0|Negative... *
+>Cluster 308
+0	533aa, >sp|Q9C9Z9|Negative... *
+>Cluster 309
+0	531aa, >sp|Q54TR1|Negative... *
+>Cluster 310
+0	531aa, >sp|O62589|Negative... *
+>Cluster 311
+0	530aa, >sp|Q09788|Negative... *
+>Cluster 312
+0	513aa, >sp|P62694|Negative... at 63.94%
+1	505aa, >sp|Q9P8P3|Negative... at 65.15%
+2	529aa, >sp|Q8WZJ4|Negative... *
+>Cluster 313
+0	529aa, >sp|D4AQA7|Negative... *
+>Cluster 314
+0	528aa, >sp|Q8W4J3|Negative... *
+>Cluster 315
+0	516aa, >sp|X2JCV5|Negative... at 40.89%
+1	527aa, >sp|P86810|Negative... *
+>Cluster 316
+0	526aa, >sp|P13688|Negative... *
+>Cluster 317
+0	435aa, >sp|Q12794|Negative... at 40.23%
+1	412aa, >sp|Q8VEI3|Negative... at 40.29%
+2	526aa, >sp|Q812F3|Negative... *
+>Cluster 318
+0	525aa, >sp|Q99PS8|Negative... *
+1	525aa, >sp|P04196|Negative... at 62.48%
+>Cluster 319
+0	525aa, >sp|Q9NQ76|Negative... *
+1	441aa, >sp|Q8K4L6|Negative... at 45.12%
+>Cluster 320
+0	524aa, >sp|Q03655|Negative... *
+>Cluster 321
+0	523aa, >sp|Q3HRQ2|Negative... *
+>Cluster 322
+0	523aa, >sp|Q90YK5|Negative... *
+>Cluster 323
+0	522aa, >sp|O74199|Negative... *
+>Cluster 324
+0	519aa, >sp|Q12718|Negative... *
+>Cluster 325
+0	517aa, >sp|Q6L6S1|Negative... *
+>Cluster 326
+0	517aa, >sp|Q6P253|Negative... *
+>Cluster 327
+0	516aa, >sp|O94220|Negative... *
+>Cluster 328
+0	516aa, >sp|J7H670|Negative... *
+1	504aa, >sp|B5U6Y8|Negative... at 82.34%
+2	498aa, >sp|K9N7B7|Negative... at 91.37%
+3	498aa, >sp|A0A024BTN9|Negative... at 93.17%
+>Cluster 329
+0	515aa, >sp|P48551|Negative... *
+>Cluster 330
+0	514aa, >sp|A8W7I5|Negative... *
+>Cluster 331
+0	513aa, >sp|Q13316|Negative... *
+>Cluster 332
+0	489aa, >sp|B3A0S3|Negative... at 65.24%
+1	513aa, >sp|B3A0R6|Negative... *
+>Cluster 333
+0	513aa, >sp|B0BK71|Negative... *
+>Cluster 334
+0	512aa, >sp|Q9H3R2|Negative... *
+>Cluster 335
+0	512aa, >sp|Q9CQ76|Negative... *
+>Cluster 336
+0	512aa, >sp|D4AK94|Negative... *
+>Cluster 337
+0	511aa, >sp|Q5A7R7|Negative... *
+>Cluster 338
+0	511aa, >sp|Q9NZK5|Negative... *
+>Cluster 339
+0	510aa, >sp|Q96NY8|Negative... *
+>Cluster 340
+0	510aa, >sp|O74288|Negative... *
+1	463aa, >sp|U6BLZ9|Negative... at 55.72%
+>Cluster 341
+0	509aa, >sp|Q20930|Negative... *
+>Cluster 342
+0	509aa, >sp|D4AV26|Negative... *
+>Cluster 343
+0	508aa, >sp|D4ANB6|Negative... *
+>Cluster 344
+0	508aa, >sp|P19235|Negative... *
+>Cluster 345
+0	507aa, >sp|P86732|Negative... *
+>Cluster 346
+0	507aa, >sp|D4AZ78|Negative... *
+>Cluster 347
+0	504aa, >sp|Q9XFX3|Negative... at 73.81%
+1	506aa, >sp|Q9XFX4|Negative... *
+>Cluster 348
+0	506aa, >sp|Q8GW72|Negative... *
+>Cluster 349
+0	504aa, >sp|Q9M069|Negative... *
+>Cluster 350
+0	490aa, >sp|O70624|Negative... at 81.84%
+1	504aa, >sp|Q99972|Negative... *
+2	490aa, >sp|Q9XTA3|Negative... at 81.84%
+3	490aa, >sp|Q866N2|Negative... at 86.33%
+>Cluster 351
+0	504aa, >sp|Q5AK54|Negative... *
+>Cluster 352
+0	503aa, >sp|Q8C165|Negative... *
+>Cluster 353
+0	501aa, >sp|Q9FUJ3|Negative... *
+>Cluster 354
+0	501aa, >sp|P43026|Negative... *
+>Cluster 355
+0	500aa, >sp|D4B1P2|Negative... *
+>Cluster 356
+0	493aa, >sp|P11597|Negative... at 66.53%
+1	497aa, >sp|P22687|Negative... *
+2	493aa, >sp|P47896|Negative... at 65.92%
+3	492aa, >sp|G3HIK4|Negative... at 61.99%
+>Cluster 357
+0	497aa, >sp|Q4WLW6|Negative... *
+>Cluster 358
+0	495aa, >sp|Q5QHG6|Negative... at 50.71%
+1	496aa, >sp|Q2ULM2|Negative... *
+2	495aa, >sp|D4AWC9|Negative... at 51.11%
+>Cluster 359
+0	495aa, >sp|Q8BZQ2|Negative... *
+1	258aa, >sp|O43692|Negative... at 51.94%
+>Cluster 360
+0	494aa, >sp|Q5XM24|Negative... *
+>Cluster 361
+0	448aa, >sp|Q9UBX5|Negative... at 43.53%
+1	493aa, >sp|O35568|Negative... *
+>Cluster 362
+0	493aa, >sp|Q504Y2|Negative... *
+1	492aa, >sp|Q5RJI4|Negative... at 93.09%
+>Cluster 363
+0	492aa, >sp|H2A0L0|Negative... *
+>Cluster 364
+0	492aa, >sp|Q9UHL4|Negative... *
+>Cluster 365
+0	491aa, >sp|P02675|Negative... *
+>Cluster 366
+0	491aa, >sp|O95841|Negative... *
+>Cluster 367
+0	490aa, >sp|Q8J0I9|Negative... *
+>Cluster 368
+0	463aa, >sp|Q6UXB8|Negative... at 57.24%
+1	489aa, >sp|Q9ET66|Negative... *
+>Cluster 369
+0	487aa, >sp|Q9NJ98|Negative... at 52.98%
+1	488aa, >sp|Q8MU95|Negative... *
+2	482aa, >sp|Q8ISB6|Negative... at 62.66%
+>Cluster 370
+0	487aa, >sp|P17213|Negative... *
+>Cluster 371
+0	486aa, >sp|G4MMH2|Negative... *
+>Cluster 372
+0	478aa, >sp|P63057|Negative... at 67.57%
+1	485aa, >sp|Q9IAK4|Negative... *
+2	478aa, >sp|P63056|Negative... at 67.57%
+3	485aa, >sp|O88998|Negative... at 96.08%
+4	454aa, >sp|O95897|Negative... at 57.27%
+>Cluster 373
+0	484aa, >sp|Q9C9H5|Negative... *
+>Cluster 374
+0	451aa, >sp|Q5AJY5|Negative... at 52.55%
+1	484aa, >sp|Q08193|Negative... *
+>Cluster 375
+0	482aa, >sp|Q5W727|Negative... *
+1	465aa, >sp|Q9M099|Negative... at 49.89%
+>Cluster 376
+0	482aa, >sp|P17454|Negative... *
+1	481aa, >sp|P18428|Negative... at 69.02%
+>Cluster 377
+0	333aa, >sp|Q4ZJN1|Negative... at 44.14%
+1	333aa, >sp|B2RNN3|Negative... at 42.94%
+2	482aa, >sp|Q4ZJM7|Negative... *
+>Cluster 378
+0	481aa, >sp|O49432|Negative... *
+>Cluster 379
+0	481aa, >sp|Q76DI2|Negative... *
+>Cluster 380
+0	481aa, >sp|Q6ZMM2|Negative... *
+>Cluster 381
+0	481aa, >sp|O35701|Negative... *
+>Cluster 382
+0	480aa, >sp|Q92743|Negative... *
+1	459aa, >sp|A6YFB5|Negative... at 67.97%
+2	453aa, >sp|P83110|Negative... at 58.94%
+3	60aa, >sp|C0HL38|Negative... at 41.67%
+>Cluster 383
+0	418aa, >sp|Q59NP5|Negative... at 54.31%
+1	476aa, >sp|P40472|Negative... *
+2	420aa, >sp|P53616|Negative... at 64.76%
+3	372aa, >sp|Q5AKU5|Negative... at 54.57%
+4	365aa, >sp|P36135|Negative... at 53.15%
+>Cluster 384
+0	476aa, >sp|P21614|Negative... *
+1	476aa, >sp|P04276|Negative... at 90.76%
+2	474aa, >sp|P02774|Negative... at 78.06%
+>Cluster 385
+0	458aa, >sp|Q7T2X7|Negative... at 46.29%
+1	476aa, >sp|P97737|Negative... *
+2	443aa, >sp|Q7T2X6|Negative... at 50.56%
+>Cluster 386
+0	476aa, >sp|Q6E0U4|Negative... *
+>Cluster 387
+0	475aa, >sp|P06858|Negative... *
+>Cluster 388
+0	471aa, >sp|P45452|Negative... at 48.83%
+1	475aa, >sp|P03957|Negative... *
+>Cluster 389
+0	474aa, >sp|Q61114|Negative... *
+>Cluster 390
+0	63aa, >sp|Q8T0W3|Negative... at 41.27%
+1	407aa, >sp|P0CT88|Negative... at 60.69%
+2	474aa, >sp|A0A0A7EQR3|Negative... *
+3	393aa, >sp|D8QLP9|Negative... at 60.05%
+4	472aa, >sp|P0CT87|Negative... at 68.22%
+>Cluster 391
+0	461aa, >sp|P00740|Negative... at 45.55%
+1	462aa, >sp|P00741|Negative... at 44.81%
+2	452aa, >sp|P19540|Negative... at 44.69%
+3	467aa, >sp|Q56VR3|Negative... at 77.52%
+4	453aa, >sp|Q58L94|Negative... at 77.70%
+5	471aa, >sp|A6MFK8|Negative... at 86.20%
+6	455aa, >sp|P83370|Negative... at 78.46%
+7	455aa, >sp|P81428|Negative... at 78.90%
+8	467aa, >sp|Q58L96|Negative... at 78.59%
+9	473aa, >sp|A6MFK7|Negative... *
+10	455aa, >sp|P82807|Negative... at 78.90%
+>Cluster 392
+0	467aa, >sp|P54315|Negative... at 83.73%
+1	465aa, >sp|P16233|Negative... at 67.10%
+2	469aa, >sp|P54317|Negative... at 62.26%
+3	467aa, >sp|P06857|Negative... at 82.87%
+4	473aa, >sp|Q5BKQ4|Negative... *
+>Cluster 393
+0	472aa, >sp|Q6IRK9|Negative... *
+1	472aa, >sp|Q9Y646|Negative... at 87.71%
+>Cluster 394
+0	464aa, >sp|Q9D7Q1|Negative... at 49.14%
+1	472aa, >sp|Q95M17|Negative... *
+2	383aa, >sp|P36222|Negative... at 51.17%
+3	383aa, >sp|Q29411|Negative... at 50.13%
+>Cluster 395
+0	471aa, >sp|P47867|Negative... *
+>Cluster 396
+0	471aa, >sp|P07987|Negative... *
+>Cluster 397
+0	471aa, >sp|Q02936|Negative... *
+>Cluster 398
+0	471aa, >sp|P42660|Negative... *
+>Cluster 399
+0	468aa, >sp|O94091|Negative... at 73.29%
+1	471aa, >sp|Q9P8W2|Negative... *
+2	459aa, >sp|Q9P8W1|Negative... at 51.20%
+3	463aa, >sp|Q9P4E8|Negative... at 63.07%
+4	466aa, >sp|Q9P8W5|Negative... at 57.73%
+5	453aa, >sp|Q9P4E6|Negative... at 49.67%
+6	463aa, >sp|Q9P8W0|Negative... at 51.40%
+7	465aa, >sp|Q9P4E5|Negative... at 56.77%
+8	460aa, >sp|Q9P8V9|Negative... at 52.61%
+9	50aa, >sp|A0A1W6EVM7|Negative... at 42.00%
+>Cluster 400
+0	471aa, >sp|P04824|Negative... *
+1	436aa, >sp|Q9URZ0|Negative... at 46.33%
+>Cluster 401
+0	470aa, >sp|Q5AJC0|Negative... *
+>Cluster 402
+0	469aa, >sp|Q8LFX7|Negative... *
+>Cluster 403
+0	466aa, >sp|P86955|Negative... at 48.07%
+1	468aa, >sp|H2A0L4|Negative... *
+2	466aa, >sp|H2A0L5|Negative... at 48.28%
+>Cluster 404
+0	370aa, >sp|P04628|Negative... at 44.86%
+1	468aa, >sp|P09615|Negative... *
+>Cluster 405
+0	467aa, >sp|Q9GZM7|Negative... *
+>Cluster 406
+0	466aa, >sp|Q9LJX8|Negative... *
+>Cluster 407
+0	465aa, >sp|Q5AUT0|Negative... *
+>Cluster 408
+0	465aa, >sp|D4ALQ5|Negative... *
+>Cluster 409
+0	464aa, >sp|Q09131|Negative... *
+>Cluster 410
+0	464aa, >sp|Q9LEW3|Negative... *
+>Cluster 411
+0	463aa, >sp|P26339|Negative... *
+1	449aa, >sp|P05059|Negative... at 50.11%
+>Cluster 412
+0	387aa, >sp|Q08431|Negative... at 56.59%
+1	463aa, >sp|P21956|Negative... *
+>Cluster 413
+0	463aa, >sp|Q5AA33|Negative... *
+>Cluster 414
+0	462aa, >sp|W3VKA4|Negative... *
+>Cluster 415
+0	462aa, >sp|O42721|Negative... *
+>Cluster 416
+0	461aa, >sp|P04070|Negative... *
+>Cluster 417
+0	460aa, >sp|Q6XZB0|Negative... *
+>Cluster 418
+0	459aa, >sp|P07981|Negative... *
+>Cluster 419
+0	420aa, >sp|P81117|Negative... at 59.76%
+1	459aa, >sp|Q63083|Negative... *
+2	420aa, >sp|P80303|Negative... at 60.48%
+>Cluster 420
+0	458aa, >sp|C0HKM3|Negative... *
+>Cluster 421
+0	458aa, >sp|D4ALG0|Negative... *
+>Cluster 422
+0	457aa, >sp|P05117|Negative... *
+1	431aa, >sp|O23147|Negative... at 51.04%
+>Cluster 423
+0	456aa, >sp|H2A0L1|Negative... *
+1	456aa, >sp|P86952|Negative... at 95.61%
+>Cluster 424
+0	456aa, >sp|Q9W3W5|Negative... *
+>Cluster 425
+0	456aa, >sp|Q5A343|Negative... *
+>Cluster 426
+0	456aa, >sp|Q90ZD5|Negative... *
+>Cluster 427
+0	456aa, >sp|D4ANW6|Negative... *
+>Cluster 428
+0	455aa, >sp|Q6KF10|Negative... *
+>Cluster 429
+0	455aa, >sp|P19438|Negative... *
+>Cluster 430
+0	443aa, >sp|Q9ZVA5|Negative... at 41.53%
+1	441aa, >sp|Q9ZVA4|Negative... at 40.36%
+2	455aa, >sp|Q9ZVA1|Negative... *
+3	455aa, >sp|Q9ZVA2|Negative... at 89.45%
+4	389aa, >sp|Q39688|Negative... at 42.67%
+>Cluster 431
+0	455aa, >sp|P27091|Negative... *
+>Cluster 432
+0	455aa, >sp|Q9R182|Negative... *
+>Cluster 433
+0	454aa, >sp|P09230|Negative... *
+>Cluster 434
+0	453aa, >sp|Q92484|Negative... *
+1	445aa, >sp|P70158|Negative... at 80.67%
+>Cluster 435
+0	453aa, >sp|Q5AFA2|Negative... *
+>Cluster 436
+0	453aa, >sp|Q5A651|Negative... *
+>Cluster 437
+0	453aa, >sp|P02679|Negative... *
+1	444aa, >sp|P12799|Negative... at 81.53%
+2	432aa, >sp|P04115|Negative... at 48.38%
+>Cluster 438
+0	452aa, >sp|Q23997|Negative... *
+1	439aa, >sp|Q8MM24|Negative... at 50.80%
+2	442aa, >sp|Q9W303|Negative... at 64.93%
+3	440aa, >sp|Q9V3D4|Negative... at 56.14%
+4	441aa, >sp|Q8MLZ7|Negative... at 51.93%
+>Cluster 439
+0	452aa, >sp|Q9VG08|Negative... *
+1	429aa, >sp|Q9VG09|Negative... at 67.83%
+>Cluster 440
+0	452aa, >sp|P12019|Negative... *
+1	425aa, >sp|Q54HY0|Negative... at 60.47%
+>Cluster 441
+0	451aa, >sp|Q5ACZ2|Negative... *
+>Cluster 442
+0	450aa, >sp|Q0E8C8|Negative... *
+>Cluster 443
+0	450aa, >sp|Q8BQB4|Negative... *
+>Cluster 444
+0	449aa, >sp|D4AM57|Negative... *
+>Cluster 445
+0	449aa, >sp|O04496|Negative... *
+>Cluster 446
+0	448aa, >sp|Q06890|Negative... *
+1	447aa, >sp|P05371|Negative... at 93.29%
+>Cluster 447
+0	438aa, >sp|P29717|Negative... at 56.16%
+1	425aa, >sp|Q8NKF9|Negative... at 57.18%
+2	413aa, >sp|D4AJL7|Negative... at 40.19%
+3	448aa, >sp|P23776|Negative... *
+4	405aa, >sp|Q7Z9L3|Negative... at 41.48%
+>Cluster 448
+0	447aa, >sp|Q9V3N1|Negative... *
+>Cluster 449
+0	434aa, >sp|Q9H4F8|Negative... at 55.30%
+1	447aa, >sp|Q8CD91|Negative... *
+>Cluster 450
+0	446aa, >sp|A5D8T8|Negative... *
+>Cluster 451
+0	446aa, >sp|Q09276|Negative... *
+>Cluster 452
+0	445aa, >sp|B6GX22|Negative... *
+>Cluster 453
+0	444aa, >sp|Q00805|Negative... *
+>Cluster 454
+0	443aa, >sp|Q9CXD9|Negative... *
+>Cluster 455
+0	305aa, >sp|D4AK17|Negative... at 41.31%
+1	442aa, >sp|D4AUX6|Negative... *
+>Cluster 456
+0	438aa, >sp|P16301|Negative... at 85.62%
+1	440aa, >sp|P53761|Negative... *
+2	413aa, >sp|P53760|Negative... at 69.49%
+3	440aa, >sp|P18424|Negative... at 85.68%
+4	440aa, >sp|P04180|Negative... at 92.73%
+5	412aa, >sp|Q8VEB4|Negative... at 46.84%
+6	412aa, >sp|Q8NCC3|Negative... at 47.82%
+>Cluster 457
+0	440aa, >sp|D4AMB9|Negative... *
+>Cluster 458
+0	437aa, >sp|Q6XBF8|Negative... *
+>Cluster 459
+0	422aa, >sp|Q9JHH6|Negative... at 40.05%
+1	417aa, >sp|P00732|Negative... at 42.69%
+2	437aa, >sp|Q8N4T0|Negative... *
+>Cluster 460
+0	437aa, >sp|Q8N6Q3|Negative... *
+>Cluster 461
+0	437aa, >sp|Q99036|Negative... *
+>Cluster 462
+0	437aa, >sp|P79762|Negative... *
+1	415aa, >sp|P48833|Negative... at 46.27%
+2	424aa, >sp|P10761|Negative... at 46.46%
+>Cluster 463
+0	437aa, >sp|D4B5F9|Negative... *
+>Cluster 464
+0	436aa, >sp|Q00387|Negative... *
+>Cluster 465
+0	435aa, >sp|P05049|Negative... *
+>Cluster 466
+0	430aa, >sp|A6N6J0|Negative... at 56.28%
+1	433aa, >sp|Q873X9|Negative... *
+2	423aa, >sp|P48827|Negative... at 55.79%
+>Cluster 467
+0	433aa, >sp|O02350|Negative... *
+>Cluster 468
+0	432aa, >sp|Q9XSC9|Negative... *
+1	427aa, >sp|P20062|Negative... at 73.07%
+>Cluster 469
+0	432aa, >sp|O18330|Negative... *
+>Cluster 470
+0	431aa, >sp|Q9FJZ3|Negative... *
+>Cluster 471
+0	429aa, >sp|Q9UK05|Negative... *
+>Cluster 472
+0	429aa, >sp|P38248|Negative... *
+>Cluster 473
+0	428aa, >sp|O75356|Negative... *
+>Cluster 474
+0	427aa, >sp|Q9VFC2|Negative... *
+>Cluster 475
+0	425aa, >sp|Q2WEN9|Negative... at 89.41%
+1	426aa, >sp|E9QA28|Negative... *
+>Cluster 476
+0	426aa, >sp|Q9P4E7|Negative... *
+>Cluster 477
+0	425aa, >sp|D4B179|Negative... *
+1	404aa, >sp|D4AKL6|Negative... at 50.50%
+>Cluster 478
+0	424aa, >sp|G4NK46|Negative... *
+>Cluster 479
+0	424aa, >sp|Q9FM65|Negative... *
+>Cluster 480
+0	424aa, >sp|D4N4Z9|Negative... *
+>Cluster 481
+0	424aa, >sp|O13716|Negative... *
+>Cluster 482
+0	423aa, >sp|P86966|Negative... *
+>Cluster 483
+0	423aa, >sp|Q4DA80|Negative... *
+>Cluster 484
+0	422aa, >sp|O75462|Negative... *
+>Cluster 485
+0	422aa, >sp|D4AS12|Negative... *
+1	422aa, >sp|A6XGK3|Negative... at 99.53%
+>Cluster 486
+0	421aa, >sp|O13960|Negative... *
+>Cluster 487
+0	400aa, >sp|L8G6I7|Negative... at 45.50%
+1	399aa, >sp|Q69F35|Negative... at 47.87%
+2	401aa, >sp|A1XIH4|Negative... at 92.02%
+3	397aa, >sp|Q69F56|Negative... at 50.88%
+4	400aa, >sp|A1XIH6|Negative... at 97.50%
+5	412aa, >sp|A1XIH0|Negative... at 63.59%
+6	397aa, >sp|Q8J0D7|Negative... at 51.89%
+7	401aa, >sp|A1XIH3|Negative... at 91.77%
+8	404aa, >sp|L8GD75|Negative... at 41.58%
+9	397aa, >sp|Q64K34|Negative... at 51.39%
+10	400aa, >sp|Q64K36|Negative... at 99.75%
+11	400aa, >sp|A1XIH5|Negative... at 97.50%
+12	412aa, >sp|A1XIH1|Negative... at 61.41%
+13	397aa, >sp|D4AWY5|Negative... at 51.39%
+14	399aa, >sp|D4AXW3|Negative... at 47.87%
+15	420aa, >sp|D4APA9|Negative... *
+16	400aa, >sp|L8FSM5|Negative... at 46.25%
+17	403aa, >sp|P28296|Negative... at 41.19%
+18	382aa, >sp|Q68GV9|Negative... at 41.36%
+>Cluster 488
+0	419aa, >sp|Q4U4T0|Negative... *
+>Cluster 489
+0	419aa, >sp|B3A0P5|Negative... *
+>Cluster 490
+0	418aa, >sp|P36955|Negative... *
+>Cluster 491
+0	417aa, >sp|D4ATH2|Negative... *
+>Cluster 492
+0	417aa, >sp|Q9GZT5|Negative... *
+1	389aa, >sp|O00744|Negative... at 62.72%
+>Cluster 493
+0	416aa, >sp|Q54PR9|Negative... *
+>Cluster 494
+0	416aa, >sp|O74411|Negative... *
+>Cluster 495
+0	415aa, >sp|Q8R2Z5|Negative... *
+>Cluster 496
+0	322aa, >sp|Q05538|Negative... at 45.34%
+1	415aa, >sp|A7XQ02|Negative... *
+>Cluster 497
+0	415aa, >sp|Q9GRW0|Negative... *
+>Cluster 498
+0	413aa, >sp|Q7TMF5|Negative... *
+>Cluster 499
+0	227aa, >sp|P47001|Negative... at 53.30%
+1	413aa, >sp|P32478|Negative... *
+2	385aa, >sp|Q59SF7|Negative... at 44.42%
+3	341aa, >sp|Q03178|Negative... at 68.33%
+4	325aa, >sp|Q03180|Negative... at 61.23%
+>Cluster 500
+0	411aa, >sp|Q9TTE1|Negative... at 44.28%
+1	406aa, >sp|Q9GK37|Negative... at 41.13%
+2	406aa, >sp|P05154|Negative... at 43.60%
+3	413aa, >sp|Q09055|Negative... *
+4	413aa, >sp|P07758|Negative... at 62.47%
+5	413aa, >sp|Q00897|Negative... at 61.50%
+6	412aa, >sp|Q00896|Negative... at 63.35%
+7	413aa, >sp|Q00898|Negative... at 61.02%
+8	413aa, >sp|P22599|Negative... at 61.74%
+>Cluster 501
+0	413aa, >sp|Q5AGC4|Negative... *
+>Cluster 502
+0	411aa, >sp|P28301|Negative... *
+>Cluster 503
+0	410aa, >sp|S5ZJC7|Negative... *
+>Cluster 504
+0	400aa, >sp|R4J7Z9|Negative... at 45.00%
+1	410aa, >sp|P86100|Negative... *
+2	385aa, >sp|P85841|Negative... at 71.95%
+>Cluster 505
+0	410aa, >sp|Q9JLD2|Negative... *
+1	410aa, >sp|Q90935|Negative... at 77.32%
+2	410aa, >sp|Q99574|Negative... at 87.80%
+>Cluster 506
+0	410aa, >sp|Q59PV6|Negative... *
+>Cluster 507
+0	410aa, >sp|Q9Z1P8|Negative... *
+1	406aa, >sp|Q9BY76|Negative... at 76.60%
+>Cluster 508
+0	408aa, >sp|D4B4P1|Negative... *
+>Cluster 509
+0	331aa, >sp|W0HFK8|Negative... at 42.90%
+1	325aa, >sp|O74717|Negative... at 40.62%
+2	327aa, >sp|O94163|Negative... at 45.57%
+3	353aa, >sp|Q6PRW6|Negative... at 41.08%
+4	344aa, >sp|Q4P902|Negative... at 41.57%
+5	408aa, >sp|Q9HEZ1|Negative... *
+6	327aa, >sp|Q5S7A8|Negative... at 44.95%
+7	323aa, >sp|Q96VB6|Negative... at 48.92%
+8	380aa, >sp|Q8NJ73|Negative... at 44.47%
+9	399aa, >sp|B7SIW2|Negative... at 83.46%
+10	331aa, >sp|Q01176|Negative... at 42.60%
+>Cluster 510
+0	407aa, >sp|Q54PA4|Negative... *
+>Cluster 511
+0	406aa, >sp|Q9UUZ2|Negative... *
+>Cluster 512
+0	406aa, >sp|Q9NRN5|Negative... *
+>Cluster 513
+0	405aa, >sp|Q91620|Negative... *
+>Cluster 514
+0	405aa, >sp|O60020|Negative... *
+>Cluster 515
+0	404aa, >sp|D4APQ6|Negative... *
+>Cluster 516
+0	394aa, >sp|Q12567|Negative... at 69.29%
+1	390aa, >sp|P0CU33|Negative... at 60.77%
+2	404aa, >sp|Q06902|Negative... *
+3	395aa, >sp|P41748|Negative... at 72.15%
+4	397aa, >sp|Q01972|Negative... at 63.73%
+>Cluster 517
+0	402aa, >sp|Q62151|Negative... *
+>Cluster 518
+0	385aa, >sp|Q3UST5|Negative... at 60.52%
+1	402aa, >sp|Q6UX73|Negative... *
+>Cluster 519
+0	402aa, >sp|P05121|Negative... *
+>Cluster 520
+0	402aa, >sp|Q6UWY5|Negative... *
+>Cluster 521
+0	398aa, >sp|Q3YBN2|Negative... *
+>Cluster 522
+0	398aa, >sp|P0CS83|Negative... *
+1	391aa, >sp|P0CY27|Negative... at 74.68%
+2	398aa, >sp|P0DJ06|Negative... at 99.75%
+>Cluster 523
+0	398aa, >sp|P27930|Negative... *
+>Cluster 524
+0	397aa, >sp|P78423|Negative... *
+1	395aa, >sp|O35188|Negative... at 66.08%
+>Cluster 525
+0	396aa, >sp|B3A0Q3|Negative... *
+>Cluster 526
+0	396aa, >sp|Q8RX86|Negative... *
+>Cluster 527
+0	395aa, >sp|B3A0P2|Negative... *
+>Cluster 528
+0	394aa, >sp|P86950|Negative... *
+1	343aa, >sp|P86951|Negative... at 48.40%
+2	336aa, >sp|P86949|Negative... at 53.87%
+3	349aa, >sp|H2A0K8|Negative... at 40.40%
+>Cluster 529
+0	394aa, >sp|Q9UVI4|Negative... *
+>Cluster 530
+0	394aa, >sp|D4AV38|Negative... *
+>Cluster 531
+0	394aa, >sp|Q9VWU1|Negative... *
+>Cluster 532
+0	394aa, >sp|D4B0N9|Negative... *
+>Cluster 533
+0	393aa, >sp|Q9BWS9|Negative... *
+>Cluster 534
+0	392aa, >sp|Q5A8I8|Negative... *
+>Cluster 535
+0	369aa, >sp|Q2VG86|Negative... at 45.26%
+1	392aa, >sp|P13582|Negative... *
+>Cluster 536
+0	391aa, >sp|Q9V3Z2|Negative... *
+1	365aa, >sp|O97366|Negative... at 44.93%
+>Cluster 537
+0	353aa, >sp|P49893|Negative... at 41.08%
+1	352aa, >sp|P56704|Negative... at 44.03%
+2	352aa, >sp|P27467|Negative... at 43.47%
+3	355aa, >sp|P56703|Negative... at 44.79%
+4	380aa, >sp|P41221|Negative... at 47.37%
+5	349aa, >sp|P28047|Negative... at 49.86%
+6	360aa, >sp|P09544|Negative... at 68.06%
+7	351aa, >sp|P49338|Negative... at 48.15%
+8	380aa, >sp|P22725|Negative... at 47.37%
+9	391aa, >sp|Q93097|Negative... *
+10	380aa, >sp|Q27Q52|Negative... at 47.11%
+11	349aa, >sp|O00755|Negative... at 49.28%
+12	352aa, >sp|Q2LMP1|Negative... at 44.89%
+13	349aa, >sp|P56706|Negative... at 49.28%
+>Cluster 538
+0	390aa, >sp|P01137|Negative... *
+>Cluster 539
+0	390aa, >sp|Q7SDR1|Negative... *
+>Cluster 540
+0	390aa, >sp|O60667|Negative... *
+>Cluster 541
+0	386aa, >sp|P53334|Negative... at 61.66%
+1	389aa, >sp|Q04951|Negative... *
+2	378aa, >sp|Q59XX2|Negative... at 58.73%
+>Cluster 542
+0	388aa, >sp|Q966V2|Negative... *
+>Cluster 543
+0	387aa, >sp|D4AZK9|Negative... *
+1	40aa, >sp|Q9VBL7|Negative... at 45.00%
+>Cluster 544
+0	387aa, >sp|D4AZY1|Negative... *
+>Cluster 545
+0	386aa, >sp|Q66NB7|Negative... *
+>Cluster 546
+0	386aa, >sp|P01012|Negative... *
+>Cluster 547
+0	381aa, >sp|P49908|Negative... at 72.97%
+1	385aa, >sp|P25236|Negative... *
+2	367aa, >sp|Q98SV1|Negative... at 42.78%
+3	380aa, >sp|P70274|Negative... at 86.84%
+>Cluster 548
+0	385aa, >sp|Q9CYH5|Negative... *
+>Cluster 549
+0	385aa, >sp|Q92344|Negative... *
+>Cluster 550
+0	383aa, >sp|O76856|Negative... *
+>Cluster 551
+0	382aa, >sp|Q8NJP6|Negative... *
+1	353aa, >sp|Q9HE18|Negative... at 43.91%
+>Cluster 552
+0	382aa, >sp|Q28755|Negative... *
+1	380aa, >sp|P83495|Negative... at 70.53%
+2	380aa, >sp|P83493|Negative... at 71.05%
+>Cluster 553
+0	361aa, >sp|Q9UR19|Negative... at 52.63%
+1	361aa, >sp|O94753|Negative... at 52.63%
+2	330aa, >sp|C0IW58|Negative... at 41.82%
+3	382aa, >sp|P19136|Negative... *
+>Cluster 554
+0	381aa, >sp|P08174|Negative... *
+>Cluster 555
+0	380aa, >sp|Q9BXN1|Negative... *
+>Cluster 556
+0	380aa, >sp|Q75R32|Negative... *
+>Cluster 557
+0	373aa, >sp|Q5QHG5|Negative... at 49.06%
+1	373aa, >sp|D4B528|Negative... at 49.60%
+2	377aa, >sp|Q2U1F3|Negative... *
+>Cluster 558
+0	377aa, >sp|Q8TAX7|Negative... *
+>Cluster 559
+0	377aa, >sp|Q9U6L5|Negative... *
+>Cluster 560
+0	376aa, >sp|O08689|Negative... *
+1	376aa, >sp|Q5I3Q2|Negative... at 64.63%
+2	376aa, >sp|Q98TB4|Negative... at 64.10%
+>Cluster 561
+0	355aa, >sp|Q66S25|Negative... at 88.73%
+1	376aa, >sp|Q66S21|Negative... *
+2	364aa, >sp|Q66S17|Negative... at 47.80%
+>Cluster 562
+0	375aa, >sp|P08571|Negative... *
+>Cluster 563
+0	364aa, >sp|Q9NAS9|Negative... at 40.93%
+1	375aa, >sp|Q9NAS8|Negative... *
+>Cluster 564
+0	375aa, >sp|P21902|Negative... *
+>Cluster 565
+0	374aa, >sp|Q9FLN0|Negative... *
+>Cluster 566
+0	373aa, >sp|D4B5D4|Negative... *
+>Cluster 567
+0	373aa, >sp|Q96LB8|Negative... *
+1	190aa, >sp|Q8SPP7|Negative... at 42.63%
+2	196aa, >sp|O75594|Negative... at 40.31%
+3	182aa, >sp|O88593|Negative... at 42.86%
+4	341aa, >sp|Q96LB9|Negative... at 64.81%
+>Cluster 568
+0	372aa, >sp|Q9FXE5|Negative... *
+>Cluster 569
+0	370aa, >sp|Q9GZP0|Negative... *
+>Cluster 570
+0	370aa, >sp|Q9LXB8|Negative... *
+>Cluster 571
+0	366aa, >sp|Q6Q788|Negative... at 72.68%
+1	368aa, >sp|Q8C7G5|Negative... *
+>Cluster 572
+0	367aa, >sp|O70169|Negative... *
+1	365aa, >sp|A6H6T1|Negative... at 48.49%
+>Cluster 573
+0	367aa, >sp|Q9IBF7|Negative... *
+>Cluster 574
+0	365aa, >sp|P78310|Negative... *
+>Cluster 575
+0	357aa, >sp|O14905|Negative... at 61.06%
+1	365aa, >sp|O14904|Negative... *
+>Cluster 576
+0	365aa, >sp|D4AL26|Negative... *
+>Cluster 577
+0	364aa, >sp|A5PF61|Negative... *
+1	364aa, >sp|Q4QRF7|Negative... at 90.66%
+>Cluster 578
+0	364aa, >sp|Q9C7N5|Negative... *
+>Cluster 579
+0	354aa, >sp|Q9YGV1|Negative... at 44.07%
+1	364aa, >sp|Q9NR23|Negative... *
+>Cluster 580
+0	364aa, >sp|D8VPP5|Negative... *
+>Cluster 581
+0	362aa, >sp|P84516|Negative... *
+>Cluster 582
+0	362aa, >sp|Q9STX1|Negative... *
+>Cluster 583
+0	361aa, >sp|Q16769|Negative... *
+>Cluster 584
+0	354aa, >sp|I1RQU5|Negative... at 58.19%
+1	361aa, >sp|Q2PGV8|Negative... *
+>Cluster 585
+0	357aa, >sp|P86954|Negative... at 91.32%
+1	359aa, >sp|H2A0L3|Negative... *
+>Cluster 586
+0	359aa, >sp|Q9FZA2|Negative... *
+>Cluster 587
+0	358aa, >sp|Q5AB48|Negative... *
+>Cluster 588
+0	357aa, >sp|P86875|Negative... *
+>Cluster 589
+0	354aa, >sp|Q9VPQ2|Negative... *
+>Cluster 590
+0	354aa, >sp|P38616|Negative... *
+>Cluster 591
+0	354aa, >sp|Q64299|Negative... *
+1	348aa, >sp|P29268|Negative... at 49.43%
+2	351aa, >sp|Q9QZQ5|Negative... at 92.02%
+>Cluster 592
+0	353aa, >sp|D4AQ52|Negative... *
+>Cluster 593
+0	353aa, >sp|P40689|Negative... *
+>Cluster 594
+0	352aa, >sp|Q9QWK4|Negative... *
+1	347aa, >sp|O43866|Negative... at 69.45%
+>Cluster 595
+0	352aa, >sp|Q670P5|Negative... *
+>Cluster 596
+0	351aa, >sp|Q9H1J5|Negative... *
+>Cluster 597
+0	351aa, >sp|P23432|Negative... *
+1	351aa, >sp|P23433|Negative... at 95.44%
+2	339aa, >sp|P33157|Negative... at 49.26%
+>Cluster 598
+0	351aa, >sp|Q8I6K0|Negative... *
+>Cluster 599
+0	350aa, >sp|Q00870|Negative... *
+>Cluster 600
+0	350aa, >sp|Q8X168|Negative... *
+>Cluster 601
+0	349aa, >sp|Q8BM15|Negative... *
+>Cluster 602
+0	349aa, >sp|B3A0R4|Negative... *
+>Cluster 603
+0	349aa, >sp|B6ZI38|Negative... *
+>Cluster 604
+0	348aa, >sp|P00739|Negative... *
+>Cluster 605
+0	348aa, >sp|P86953|Negative... *
+1	348aa, >sp|H2A0L2|Negative... at 89.66%
+>Cluster 606
+0	346aa, >sp|Q6FHJ7|Negative... *
+>Cluster 607
+0	346aa, >sp|Q68KK0|Negative... *
+>Cluster 608
+0	345aa, >sp|Q8CI19|Negative... *
+1	345aa, >sp|Q9NRA1|Negative... at 86.96%
+>Cluster 609
+0	343aa, >sp|Q0WUV7|Negative... *
+1	343aa, >sp|Q93X94|Negative... at 58.02%
+>Cluster 610
+0	342aa, >sp|Q5VYX0|Negative... *
+1	342aa, >sp|A7RDN6|Negative... at 71.64%
+>Cluster 611
+0	341aa, >sp|P86858|Negative... *
+>Cluster 612
+0	340aa, >sp|Q6PGN1|Negative... *
+>Cluster 613
+0	340aa, >sp|Q59Y11|Negative... *
+>Cluster 614
+0	313aa, >sp|Q8WWA0|Negative... at 62.94%
+1	339aa, >sp|Q5PPM0|Negative... *
+>Cluster 615
+0	338aa, >sp|P17693|Negative... *
+>Cluster 616
+0	337aa, >sp|Q8NJQ5|Negative... *
+>Cluster 617
+0	337aa, >sp|P86963|Negative... *
+>Cluster 618
+0	337aa, >sp|P0CH47|Negative... *
+1	322aa, >sp|A2VBC4|Negative... at 58.70%
+>Cluster 619
+0	336aa, >sp|B3A0P7|Negative... *
+>Cluster 620
+0	335aa, >sp|A1E295|Negative... *
+1	335aa, >sp|P43508|Negative... at 47.16%
+>Cluster 621
+0	335aa, >sp|A8TGA1|Negative... *
+>Cluster 622
+0	335aa, >sp|D4B4V1|Negative... *
+>Cluster 623
+0	334aa, >sp|Q6H3X3|Negative... *
+1	246aa, >sp|Q9BZM5|Negative... at 86.59%
+>Cluster 624
+0	326aa, >sp|Q24940|Negative... at 41.10%
+1	333aa, >sp|Q9JI81|Negative... *
+2	331aa, >sp|Q91ZF2|Negative... at 55.89%
+3	330aa, >sp|Q9GLE3|Negative... at 44.24%
+>Cluster 625
+0	332aa, >sp|H2A0L9|Negative... *
+1	329aa, >sp|P86957|Negative... at 93.62%
+2	156aa, >sp|Q8I948|Negative... at 48.08%
+>Cluster 626
+0	332aa, >sp|P79021|Negative... *
+1	332aa, >sp|P79019|Negative... at 93.67%
+>Cluster 627
+0	332aa, >sp|D4AVJ0|Negative... *
+>Cluster 628
+0	331aa, >sp|P91889|Negative... *
+>Cluster 629
+0	330aa, >sp|Q8BMS2|Negative... *
+>Cluster 630
+0	321aa, >sp|Q12713|Negative... at 44.86%
+1	330aa, >sp|D4B4X4|Negative... *
+>Cluster 631
+0	329aa, >sp|Q9BXJ3|Negative... *
+>Cluster 632
+0	299aa, >sp|P47032|Negative... at 48.83%
+1	329aa, >sp|P36110|Negative... *
+>Cluster 633
+0	326aa, >sp|Q13790|Negative... *
+>Cluster 634
+0	255aa, >sp|P55083|Negative... at 45.10%
+1	326aa, >sp|O00602|Negative... *
+>Cluster 635
+0	325aa, >sp|P38844|Negative... *
+>Cluster 636
+0	323aa, >sp|Q9Y240|Negative... *
+>Cluster 637
+0	321aa, >sp|P18153|Negative... *
+>Cluster 638
+0	306aa, >sp|P0CE83|Negative... at 75.82%
+1	309aa, >sp|Q4ZFU2|Negative... at 92.56%
+2	302aa, >sp|P0CE82|Negative... at 77.15%
+3	320aa, >sp|Q7Z1Y7|Negative... *
+4	306aa, >sp|P0CE80|Negative... at 75.82%
+5	306aa, >sp|P0CE81|Negative... at 76.47%
+>Cluster 639
+0	319aa, >sp|T1NXB5|Negative... *
+>Cluster 640
+0	318aa, >sp|B3A0P8|Negative... *
+>Cluster 641
+0	317aa, >sp|Q9GZN4|Negative... *
+>Cluster 642
+0	314aa, >sp|Q9ZPE7|Negative... *
+>Cluster 643
+0	314aa, >sp|D4ARV2|Negative... *
+>Cluster 644
+0	308aa, >sp|Q5AMT2|Negative... at 63.96%
+1	313aa, >sp|P15703|Negative... *
+>Cluster 645
+0	313aa, >sp|Q8BJ66|Negative... *
+1	278aa, >sp|Q8WX77|Negative... at 42.09%
+>Cluster 646
+0	310aa, >sp|P18827|Negative... at 76.77%
+1	311aa, >sp|P18828|Negative... *
+>Cluster 647
+0	311aa, >sp|Q8VE43|Negative... *
+1	291aa, >sp|Q8C1Q4|Negative... at 44.67%
+>Cluster 648
+0	310aa, >sp|Q9BX67|Negative... *
+>Cluster 649
+0	221aa, >sp|P87037|Negative... at 57.47%
+1	221aa, >sp|Q4P0L3|Negative... at 41.18%
+2	221aa, >sp|Q96TR7|Negative... at 42.99%
+3	228aa, >sp|I1RII8|Negative... at 53.95%
+4	290aa, >sp|B7SIW1|Negative... at 50.34%
+5	208aa, >sp|Q96W72|Negative... at 41.83%
+6	229aa, >sp|G0R947|Negative... at 46.29%
+7	223aa, >sp|G0RUP7|Negative... at 58.74%
+8	250aa, >sp|Q0ZHI9|Negative... at 45.20%
+9	223aa, >sp|Q9HFH0|Negative... at 60.09%
+10	216aa, >sp|O74716|Negative... at 48.61%
+11	233aa, >sp|P0CT48|Negative... at 51.93%
+12	226aa, >sp|B3VSG7|Negative... at 55.75%
+13	221aa, >sp|P55333|Negative... at 60.63%
+14	231aa, >sp|I1S2K3|Negative... at 50.65%
+15	223aa, >sp|P36217|Negative... at 58.74%
+16	232aa, >sp|Q9HFA4|Negative... at 53.88%
+17	221aa, >sp|Q12562|Negative... at 43.89%
+18	310aa, >sp|E7EF85|Negative... *
+19	221aa, >sp|B5A7N4|Negative... at 58.37%
+20	227aa, >sp|Q9HGE1|Negative... at 51.54%
+21	236aa, >sp|Q92244|Negative... at 52.54%
+22	229aa, >sp|P36218|Negative... at 46.29%
+23	225aa, >sp|P55332|Negative... at 57.33%
+24	216aa, >sp|W0HJ53|Negative... at 70.83%
+25	217aa, >sp|Q2PGY1|Negative... at 59.45%
+>Cluster 650
+0	305aa, >sp|Q13609|Negative... at 81.31%
+1	282aa, >sp|P00639|Negative... at 47.16%
+2	282aa, >sp|P24855|Negative... at 45.04%
+3	310aa, >sp|O55070|Negative... *
+>Cluster 651
+0	308aa, >sp|O19116|Negative... *
+>Cluster 652
+0	308aa, >sp|D4B2W4|Negative... *
+>Cluster 653
+0	303aa, >sp|Q9Z0J6|Negative... at 58.09%
+1	308aa, >sp|Q99988|Negative... *
+2	303aa, >sp|Q9Z0J7|Negative... at 61.06%
+3	308aa, >sp|G7PWZ3|Negative... at 91.56%
+>Cluster 654
+0	308aa, >sp|Q8R2Z0|Negative... *
+1	302aa, >sp|Q5T7M4|Negative... at 71.85%
+>Cluster 655
+0	306aa, >sp|P45478|Negative... *
+1	306aa, >sp|O88531|Negative... at 84.31%
+2	306aa, >sp|P45479|Negative... at 82.35%
+>Cluster 656
+0	305aa, >sp|Q9UJJ9|Negative... *
+>Cluster 657
+0	304aa, >sp|P12843|Negative... *
+>Cluster 658
+0	303aa, >sp|P09486|Negative... *
+1	302aa, >sp|P07214|Negative... at 92.72%
+2	303aa, >sp|P13213|Negative... at 99.01%
+3	301aa, >sp|P16975|Negative... at 93.02%
+4	300aa, >sp|P36378|Negative... at 78.67%
+>Cluster 659
+0	302aa, >sp|B3A0Q7|Negative... *
+>Cluster 660
+0	299aa, >sp|P87020|Negative... *
+>Cluster 661
+0	299aa, >sp|Q01301|Negative... *
+>Cluster 662
+0	298aa, >sp|Q8MJF1|Negative... *
+>Cluster 663
+0	296aa, >sp|B3A0Q2|Negative... *
+>Cluster 664
+0	295aa, >sp|P93349|Negative... at 67.12%
+1	296aa, >sp|Q39099|Negative... *
+>Cluster 665
+0	295aa, >sp|P13726|Negative... *
+>Cluster 666
+0	161aa, >sp|P83059|Negative... at 52.17%
+1	294aa, >sp|Q7T3L1|Negative... *
+2	208aa, >sp|Q90WZ1|Negative... at 97.60%
+3	97aa, >sp|P83056|Negative... at 61.86%
+>Cluster 667
+0	294aa, >sp|P86969|Negative... *
+>Cluster 668
+0	291aa, >sp|P29060|Negative... *
+>Cluster 669
+0	291aa, >sp|P17936|Negative... *
+1	265aa, >sp|Q90WV8|Negative... at 44.15%
+>Cluster 670
+0	288aa, >sp|Q8BGC9|Negative... at 84.03%
+1	290aa, >sp|Q8IUH2|Negative... *
+>Cluster 671
+0	287aa, >sp|Q8CFR0|Negative... *
+1	255aa, >sp|Q9ESN4|Negative... at 68.24%
+2	238aa, >sp|Q4ZJM9|Negative... at 58.40%
+>Cluster 672
+0	273aa, >sp|Q8TG42|Negative... at 56.78%
+1	284aa, >sp|Q9HFP8|Negative... *
+>Cluster 673
+0	283aa, >sp|Q6UWY2|Negative... *
+>Cluster 674
+0	144aa, >sp|P35581|Negative... at 96.53%
+1	168aa, >sp|Q06601|Negative... at 94.05%
+2	283aa, >sp|Q06602|Negative... *
+>Cluster 675
+0	281aa, >sp|P97586|Negative... *
+>Cluster 676
+0	281aa, >sp|Q8VIM0|Negative... *
+>Cluster 677
+0	280aa, >sp|O42815|Negative... at 92.50%
+1	281aa, >sp|O42807|Negative... *
+>Cluster 678
+0	280aa, >sp|Q5FBW2|Negative... *
+1	261aa, >sp|Q6H321|Negative... at 48.66%
+>Cluster 679
+0	279aa, >sp|Q99MS4|Negative... *
+>Cluster 680
+0	270aa, >sp|Q8K4I4|Negative... at 91.11%
+1	278aa, >sp|P97361|Negative... *
+2	256aa, >sp|Q9NP55|Negative... at 69.92%
+>Cluster 681
+0	278aa, >sp|Q3HS83|Negative... *
+>Cluster 682
+0	277aa, >sp|Q9Y6Z7|Negative... *
+1	271aa, >sp|Q9BWP8|Negative... at 47.23%
+>Cluster 683
+0	258aa, >sp|Q17025|Negative... at 40.70%
+1	259aa, >sp|Q27289|Negative... at 40.93%
+2	254aa, >sp|P29786|Negative... at 50.00%
+3	277aa, >sp|P35036|Negative... *
+4	275aa, >sp|P35037|Negative... at 74.55%
+5	275aa, >sp|P35038|Negative... at 67.27%
+6	274aa, >sp|P35039|Negative... at 58.39%
+7	267aa, >sp|P35041|Negative... at 73.41%
+8	274aa, >sp|P35035|Negative... at 74.82%
+9	273aa, >sp|P35040|Negative... at 55.68%
+10	256aa, >sp|P04814|Negative... at 41.02%
+>Cluster 684
+0	265aa, >sp|Q9Z132|Negative... at 42.26%
+1	243aa, >sp|Q5UE90|Negative... at 43.62%
+2	277aa, >sp|Q2TJ95|Negative... *
+3	243aa, >sp|Q8BFU0|Negative... at 44.44%
+>Cluster 685
+0	277aa, >sp|Q5A5U6|Negative... *
+>Cluster 686
+0	271aa, >sp|Q9LJR2|Negative... at 86.72%
+1	274aa, >sp|Q9LZF5|Negative... at 66.06%
+2	276aa, >sp|Q9LK72|Negative... *
+>Cluster 687
+0	271aa, >sp|D4ALW9|Negative... at 51.66%
+1	276aa, >sp|C5P3X6|Negative... *
+>Cluster 688
+0	275aa, >sp|Q9VP95|Negative... *
+>Cluster 689
+0	273aa, >sp|Q9UHF1|Negative... at 78.39%
+1	275aa, >sp|Q9QXT5|Negative... *
+>Cluster 690
+0	275aa, >sp|P0DPK3|Negative... *
+>Cluster 691
+0	274aa, >sp|Q4TTV7|Negative... *
+1	274aa, >sp|Q8MUG0|Negative... at 98.18%
+>Cluster 692
+0	274aa, >sp|Q84UV8|Negative... *
+>Cluster 693
+0	273aa, >sp|Q9D6Y1|Negative... *
+>Cluster 694
+0	273aa, >sp|Q9Z0V5|Negative... *
+>Cluster 695
+0	272aa, >sp|O55233|Negative... *
+>Cluster 696
+0	271aa, >sp|Q59ZX3|Negative... *
+>Cluster 697
+0	271aa, >sp|Q07730|Negative... *
+>Cluster 698
+0	270aa, >sp|P70041|Negative... *
+>Cluster 699
+0	270aa, >sp|B3A0R7|Negative... *
+>Cluster 700
+0	268aa, >sp|Q336T5|Negative... *
+>Cluster 701
+0	268aa, >sp|P21745|Negative... *
+>Cluster 702
+0	267aa, >sp|Q9P0G3|Negative... *
+1	260aa, >sp|O60259|Negative... at 47.69%
+2	253aa, >sp|P49862|Negative... at 43.08%
+>Cluster 703
+0	265aa, >sp|F2Z472|Negative... *
+>Cluster 704
+0	265aa, >sp|Q61400|Negative... *
+>Cluster 705
+0	239aa, >sp|Q27J49|Negative... at 66.11%
+1	256aa, >sp|Q6LEM5|Negative... at 96.09%
+2	181aa, >sp|Q90Y12|Negative... at 65.75%
+3	181aa, >sp|Q2PE51|Negative... at 66.30%
+4	144aa, >sp|Q7T1M3|Negative... at 83.33%
+5	265aa, >sp|P68515|Negative... *
+6	164aa, >sp|Q09GK2|Negative... at 58.54%
+7	121aa, >sp|P84715|Negative... at 41.32%
+>Cluster 706
+0	265aa, >sp|Q6UX52|Negative... *
+>Cluster 707
+0	265aa, >sp|P86967|Negative... *
+>Cluster 708
+0	264aa, >sp|Q8IVN8|Negative... *
+>Cluster 709
+0	264aa, >sp|D4AZC5|Negative... *
+>Cluster 710
+0	264aa, >sp|B3A0R3|Negative... *
+>Cluster 711
+0	263aa, >sp|Q969J5|Negative... *
+1	230aa, >sp|Q80XF5|Negative... at 54.35%
+>Cluster 712
+0	263aa, >sp|Q5SSH8|Negative... *
+>Cluster 713
+0	262aa, >sp|Q9ERM2|Negative... *
+>Cluster 714
+0	262aa, >sp|B3A0P6|Negative... *
+>Cluster 715
+0	249aa, >sp|K4LLQ2|Negative... at 66.27%
+1	260aa, >sp|Q6T6S7|Negative... at 72.69%
+2	260aa, >sp|P0CG03|Negative... at 76.54%
+3	258aa, >sp|Q27J47|Negative... at 75.97%
+4	262aa, >sp|Q91053|Negative... *
+5	260aa, >sp|P18965|Negative... at 68.85%
+6	258aa, >sp|Q8AY80|Negative... at 79.84%
+7	258aa, >sp|Q8AY79|Negative... at 74.03%
+8	258aa, >sp|Q9YGJ8|Negative... at 75.58%
+9	258aa, >sp|Q91516|Negative... at 73.26%
+10	260aa, >sp|Q8AY81|Negative... at 73.08%
+>Cluster 716
+0	262aa, >sp|Q5UCC4|Negative... *
+1	258aa, >sp|Q3TAS6|Negative... at 86.43%
+>Cluster 717
+0	260aa, >sp|P86872|Negative... at 95.00%
+1	262aa, >sp|P86871|Negative... *
+>Cluster 718
+0	243aa, >sp|Q76CE8|Negative... at 53.91%
+1	261aa, >sp|C7F6X3|Negative... *
+>Cluster 719
+0	260aa, >sp|P86948|Negative... *
+1	254aa, >sp|H2A0K7|Negative... at 90.16%
+>Cluster 720
+0	258aa, >sp|Q86IV5|Negative... *
+1	254aa, >sp|Q8WSR7|Negative... at 41.34%
+>Cluster 721
+0	258aa, >sp|Q8TAT2|Negative... *
+>Cluster 722
+0	258aa, >sp|Q9QXV0|Negative... *
+>Cluster 723
+0	257aa, >sp|O48818|Negative... *
+>Cluster 724
+0	256aa, >sp|P24158|Negative... *
+>Cluster 725
+0	256aa, >sp|D4B3I5|Negative... *
+>Cluster 726
+0	255aa, >sp|Q27084|Negative... *
+>Cluster 727
+0	255aa, >sp|Q93V74|Negative... *
+>Cluster 728
+0	255aa, >sp|Q9D7S0|Negative... *
+>Cluster 729
+0	252aa, >sp|P60827|Negative... *
+>Cluster 730
+0	251aa, >sp|Q9VJN9|Negative... *
+>Cluster 731
+0	251aa, >sp|Q5F378|Negative... *
+>Cluster 732
+0	251aa, >sp|Q9GZV9|Negative... *
+>Cluster 733
+0	250aa, >sp|Q9JMI7|Negative... *
+>Cluster 734
+0	250aa, >sp|P13284|Negative... *
+>Cluster 735
+0	250aa, >sp|Q5AP52|Negative... *
+>Cluster 736
+0	249aa, >sp|Q9VBV3|Negative... *
+>Cluster 737
+0	249aa, >sp|Q9VYB0|Negative... *
+>Cluster 738
+0	249aa, >sp|Q7Z9M7|Negative... *
+>Cluster 739
+0	249aa, >sp|Q9VMM6|Negative... *
+>Cluster 740
+0	238aa, >sp|P19999|Negative... at 60.08%
+1	248aa, >sp|P11226|Negative... *
+>Cluster 741
+0	248aa, >sp|Q99935|Negative... *
+>Cluster 742
+0	247aa, >sp|Q8QZY4|Negative... *
+>Cluster 743
+0	247aa, >sp|P21844|Negative... *
+>Cluster 744
+0	245aa, >sp|Q8CG08|Negative... *
+>Cluster 745
+0	223aa, >sp|Q7YR83|Negative... at 73.09%
+1	245aa, >sp|Q9GL25|Negative... *
+2	223aa, >sp|Q96BH3|Negative... at 70.85%
+>Cluster 746
+0	245aa, >sp|D4ATA2|Negative... *
+>Cluster 747
+0	245aa, >sp|D4ATM6|Negative... *
+>Cluster 748
+0	244aa, >sp|P86731|Negative... *
+>Cluster 749
+0	244aa, >sp|P25428|Negative... *
+>Cluster 750
+0	234aa, >sp|Q8K3I6|Negative... at 75.64%
+1	243aa, >sp|Q8NEV9|Negative... *
+>Cluster 751
+0	243aa, >sp|A0A1I9LMX5|Negative... *
+1	101aa, >sp|B3H5A9|Negative... at 47.52%
+2	82aa, >sp|O80460|Negative... at 40.24%
+>Cluster 752
+0	242aa, >sp|Q6ZMJ4|Negative... *
+>Cluster 753
+0	242aa, >sp|Q8N2E6|Negative... *
+1	231aa, >sp|P0C7W2|Negative... at 80.09%
+>Cluster 754
+0	241aa, >sp|Q9GKK3|Negative... *
+>Cluster 755
+0	241aa, >sp|P02702|Negative... *
+>Cluster 756
+0	240aa, >sp|Q2VF17|Negative... *
+>Cluster 757
+0	238aa, >sp|Q8AVA3|Negative... at 61.34%
+1	238aa, >sp|P84808|Negative... at 62.61%
+2	239aa, >sp|P84805|Negative... *
+3	239aa, >sp|Q09GJ9|Negative... at 72.80%
+>Cluster 758
+0	238aa, >sp|Q875I9|Negative... *
+>Cluster 759
+0	238aa, >sp|P86947|Negative... *
+1	238aa, >sp|H2A0K6|Negative... at 94.54%
+>Cluster 760
+0	238aa, >sp|Q86AV4|Negative... *
+>Cluster 761
+0	236aa, >sp|Q9DAG6|Negative... *
+>Cluster 762
+0	236aa, >sp|Q6UX27|Negative... *
+>Cluster 763
+0	236aa, >sp|Q8R0A6|Negative... *
+>Cluster 764
+0	235aa, >sp|P07743|Negative... *
+>Cluster 765
+0	235aa, >sp|D4ANU4|Negative... *
+>Cluster 766
+0	235aa, >sp|P01193|Negative... *
+>Cluster 767
+0	235aa, >sp|P01732|Negative... *
+>Cluster 768
+0	234aa, >sp|Q7YRQ8|Negative... *
+1	88aa, >sp|B7S4N9|Negative... at 44.32%
+2	93aa, >sp|P00992|Negative... at 40.86%
+>Cluster 769
+0	234aa, >sp|O59893|Negative... *
+>Cluster 770
+0	234aa, >sp|P24001|Negative... *
+>Cluster 771
+0	234aa, >sp|Q14512|Negative... *
+>Cluster 772
+0	234aa, >sp|Q5AFN8|Negative... *
+>Cluster 773
+0	232aa, >sp|Q5AD05|Negative... *
+1	228aa, >sp|Q5AD07|Negative... at 68.86%
+>Cluster 774
+0	232aa, >sp|P15692|Negative... *
+1	188aa, >sp|O73682|Negative... at 41.49%
+2	191aa, >sp|P83906|Negative... at 52.88%
+>Cluster 775
+0	231aa, >sp|Q3TR08|Negative... *
+>Cluster 776
+0	231aa, >sp|D4AQH0|Negative... *
+>Cluster 777
+0	230aa, >sp|Q9P403|Negative... *
+>Cluster 778
+0	230aa, >sp|P80022|Negative... *
+>Cluster 779
+0	229aa, >sp|Q9H6E4|Negative... *
+>Cluster 780
+0	229aa, >sp|Q94EG3|Negative... *
+>Cluster 781
+0	228aa, >sp|O02036|Negative... *
+>Cluster 782
+0	228aa, >sp|O45348|Negative... *
+>Cluster 783
+0	227aa, >sp|Q91VU0|Negative... *
+>Cluster 784
+0	227aa, >sp|Q8T113|Negative... *
+>Cluster 785
+0	226aa, >sp|D4AY02|Negative... *
+1	201aa, >sp|Q8LDP4|Negative... at 58.71%
+2	206aa, >sp|B3A0R0|Negative... at 53.88%
+>Cluster 786
+0	225aa, >sp|Q9PTT2|Negative... *
+>Cluster 787
+0	225aa, >sp|H2A0M5|Negative... *
+>Cluster 788
+0	225aa, >sp|P86870|Negative... *
+>Cluster 789
+0	225aa, >sp|B3A0S1|Negative... *
+>Cluster 790
+0	224aa, >sp|B3A0Q5|Negative... *
+>Cluster 791
+0	224aa, >sp|P11373|Negative... *
+>Cluster 792
+0	193aa, >sp|P63182|Negative... at 79.79%
+1	224aa, >sp|Q8BGU2|Negative... *
+>Cluster 793
+0	224aa, >sp|O15537|Negative... *
+>Cluster 794
+0	224aa, >sp|P04768|Negative... *
+1	222aa, >sp|Q9JLV9|Negative... at 91.44%
+2	224aa, >sp|P04095|Negative... at 98.66%
+>Cluster 795
+0	223aa, >sp|H2A0K9|Negative... *
+>Cluster 796
+0	223aa, >sp|P0CG37|Negative... *
+>Cluster 797
+0	223aa, >sp|Q5EF78|Negative... *
+>Cluster 798
+0	223aa, >sp|Q9BYJ0|Negative... *
+>Cluster 799
+0	222aa, >sp|A8QZJ5|Negative... *
+>Cluster 800
+0	222aa, >sp|Q14406|Negative... *
+>Cluster 801
+0	222aa, >sp|D4B3R7|Negative... *
+>Cluster 802
+0	220aa, >sp|H2A0P2|Negative... *
+>Cluster 803
+0	220aa, >sp|O75629|Negative... *
+>Cluster 804
+0	219aa, >sp|B3A0Q0|Negative... *
+>Cluster 805
+0	218aa, >sp|Q07699|Negative... *
+>Cluster 806
+0	218aa, >sp|Q9I8M9|Negative... *
+>Cluster 807
+0	218aa, >sp|B1P0S1|Negative... *
+1	97aa, >sp|P09031|Negative... at 61.86%
+>Cluster 808
+0	207aa, >sp|P49061|Negative... at 70.53%
+1	207aa, >sp|P35624|Negative... at 67.15%
+2	205aa, >sp|P12032|Negative... at 85.85%
+3	217aa, >sp|P30120|Negative... *
+4	207aa, >sp|P01033|Negative... at 70.53%
+5	207aa, >sp|P20414|Negative... at 70.53%
+>Cluster 809
+0	216aa, >sp|P63076|Negative... *
+>Cluster 810
+0	215aa, >sp|Q9C7S6|Negative... *
+>Cluster 811
+0	214aa, >sp|B3A0R5|Negative... *
+>Cluster 812
+0	214aa, >sp|P86962|Negative... *
+>Cluster 813
+0	214aa, >sp|Q5AMF7|Negative... *
+>Cluster 814
+0	206aa, >sp|Q6X4U4|Negative... at 40.29%
+1	213aa, >sp|Q9BQB4|Negative... *
+>Cluster 815
+0	213aa, >sp|P15814|Negative... *
+>Cluster 816
+0	113aa, >sp|Q5AF39|Negative... at 64.60%
+1	213aa, >sp|Q5AF41|Negative... *
+>Cluster 817
+0	213aa, >sp|Q8SPJ0|Negative... *
+>Cluster 818
+0	213aa, >sp|Q9D3J8|Negative... *
+>Cluster 819
+0	212aa, >sp|Q2KIX7|Negative... *
+>Cluster 820
+0	212aa, >sp|D4APE0|Negative... *
+>Cluster 821
+0	211aa, >sp|P20607|Negative... *
+>Cluster 822
+0	211aa, >sp|P39905|Negative... *
+>Cluster 823
+0	210aa, >sp|Q9VH14|Negative... *
+>Cluster 824
+0	210aa, >sp|A1IGX5|Negative... *
+>Cluster 825
+0	210aa, >sp|D4ALI1|Negative... *
+>Cluster 826
+0	209aa, >sp|P86725|Negative... *
+>Cluster 827
+0	209aa, >sp|D4AV98|Negative... *
+>Cluster 828
+0	208aa, >sp|Q8WTD3|Negative... *
+>Cluster 829
+0	207aa, >sp|Q1ELU5|Negative... *
+1	179aa, >sp|Q1ELU4|Negative... at 83.80%
+>Cluster 830
+0	207aa, >sp|P01165|Negative... *
+>Cluster 831
+0	206aa, >sp|Q9CQN4|Negative... *
+1	206aa, >sp|Q642G2|Negative... at 99.03%
+>Cluster 832
+0	205aa, >sp|P20827|Negative... *
+>Cluster 833
+0	205aa, >sp|Q6PQK2|Negative... *
+>Cluster 834
+0	204aa, >sp|P53872|Negative... *
+>Cluster 835
+0	204aa, >sp|F7C0L1|Negative... *
+>Cluster 836
+0	204aa, >sp|D4AK18|Negative... *
+>Cluster 837
+0	203aa, >sp|Q8T0W2|Negative... *
+>Cluster 838
+0	203aa, >sp|Q9VYX7|Negative... *
+1	197aa, >sp|Q765P4|Negative... at 43.65%
+2	187aa, >sp|Q765P3|Negative... at 45.99%
+>Cluster 839
+0	183aa, >sp|Q6ETW4|Negative... at 44.26%
+1	203aa, >sp|Q10T67|Negative... *
+>Cluster 840
+0	203aa, >sp|B3A0Q1|Negative... *
+>Cluster 841
+0	202aa, >sp|Q9STY5|Negative... *
+>Cluster 842
+0	201aa, >sp|P02753|Negative... *
+1	201aa, >sp|P04916|Negative... at 85.57%
+2	196aa, >sp|P41263|Negative... at 82.65%
+3	201aa, >sp|P27485|Negative... at 91.54%
+4	201aa, >sp|P06912|Negative... at 91.04%
+5	201aa, >sp|M5AXY1|Negative... at 93.53%
+>Cluster 843
+0	201aa, >sp|Q07449|Negative... *
+>Cluster 844
+0	201aa, >sp|Q9CR36|Negative... *
+>Cluster 845
+0	201aa, >sp|P86729|Negative... *
+1	200aa, >sp|P86734|Negative... at 60.00%
+>Cluster 846
+0	201aa, >sp|P19427|Negative... *
+>Cluster 847
+0	200aa, >sp|Q8IZJ0|Negative... *
+1	196aa, >sp|Q8IZI9|Negative... at 95.92%
+>Cluster 848
+0	200aa, >sp|Q9Y0X6|Negative... *
+>Cluster 849
+0	200aa, >sp|P11672|Negative... *
+1	198aa, >sp|P80188|Negative... at 62.12%
+>Cluster 850
+0	199aa, >sp|P47873|Negative... *
+1	199aa, >sp|P20809|Negative... at 87.94%
+>Cluster 851
+0	198aa, >sp|P31431|Negative... *
+1	198aa, >sp|O35988|Negative... at 79.80%
+>Cluster 852
+0	198aa, >sp|H2A0N9|Negative... *
+>Cluster 853
+0	198aa, >sp|Q9BUR5|Negative... *
+>Cluster 854
+0	198aa, >sp|Q8R1L8|Negative... *
+1	198aa, >sp|Q6UXH0|Negative... at 72.73%
+>Cluster 855
+0	197aa, >sp|O75596|Negative... *
+>Cluster 856
+0	197aa, >sp|D4B5D3|Negative... *
+>Cluster 857
+0	196aa, >sp|A0A0F7YYX3|Negative... *
+>Cluster 858
+0	196aa, >sp|Q9EQ14|Negative... *
+1	189aa, >sp|Q9NPF7|Negative... at 74.60%
+>Cluster 859
+0	196aa, >sp|D4AXK7|Negative... *
+>Cluster 860
+0	195aa, >sp|B3A0S0|Negative... *
+>Cluster 861
+0	195aa, >sp|A8CL69|Negative... *
+>Cluster 862
+0	195aa, >sp|B3A0S4|Negative... *
+>Cluster 863
+0	195aa, >sp|D4AWM9|Negative... *
+>Cluster 864
+0	195aa, >sp|D4ATS1|Negative... *
+>Cluster 865
+0	194aa, >sp|O18641|Negative... *
+1	194aa, >sp|P11159|Negative... at 98.45%
+2	193aa, >sp|O76818|Negative... at 79.79%
+3	192aa, >sp|P09971|Negative... at 67.71%
+>Cluster 866
+0	194aa, >sp|Q7Z1K3|Negative... *
+>Cluster 867
+0	192aa, >sp|A2AJB7|Negative... *
+>Cluster 868
+0	191aa, >sp|Q9VV36|Negative... *
+>Cluster 869
+0	191aa, >sp|Q7Z4R8|Negative... *
+>Cluster 870
+0	191aa, >sp|B6D434|Negative... *
+>Cluster 871
+0	191aa, >sp|Q9VG55|Negative... *
+>Cluster 872
+0	191aa, >sp|Q9D0T7|Negative... *
+>Cluster 873
+0	187aa, >sp|P01143|Negative... at 79.14%
+1	191aa, >sp|P06296|Negative... *
+2	190aa, >sp|P01142|Negative... at 77.37%
+>Cluster 874
+0	190aa, >sp|P83234|Negative... *
+>Cluster 875
+0	190aa, >sp|P41222|Negative... *
+>Cluster 876
+0	190aa, >sp|Q70PY2|Negative... *
+>Cluster 877
+0	190aa, >sp|D4AMW3|Negative... *
+>Cluster 878
+0	189aa, >sp|P09464|Negative... *
+>Cluster 879
+0	180aa, >sp|Q9I930|Negative... at 76.11%
+1	189aa, >sp|Q9I927|Negative... *
+2	180aa, >sp|Q9I929|Negative... at 74.44%
+3	179aa, >sp|Q9I928|Negative... at 76.54%
+4	178aa, >sp|Q9I931|Negative... at 84.83%
+5	186aa, >sp|Q9I926|Negative... at 80.65%
+6	189aa, >sp|Q9I925|Negative... at 73.54%
+>Cluster 880
+0	189aa, >sp|Q8WU39|Negative... *
+1	188aa, >sp|Q9D8I1|Negative... at 71.81%
+>Cluster 881
+0	189aa, >sp|Q9BZM1|Negative... *
+>Cluster 882
+0	188aa, >sp|P13385|Negative... *
+>Cluster 883
+0	188aa, >sp|Q9BSG0|Negative... *
+>Cluster 884
+0	188aa, >sp|O95445|Negative... *
+>Cluster 885
+0	187aa, >sp|Q49AH0|Negative... *
+1	187aa, >sp|Q8CC36|Negative... at 77.54%
+2	182aa, >sp|P55145|Negative... at 58.79%
+3	179aa, >sp|Q9CXI5|Negative... at 58.10%
+4	173aa, >sp|Q9XZ63|Negative... at 47.98%
+>Cluster 886
+0	186aa, >sp|D4B2Q8|Negative... *
+>Cluster 887
+0	186aa, >sp|Q59DY6|Negative... *
+>Cluster 888
+0	186aa, >sp|P0DN32|Negative... *
+>Cluster 889
+0	186aa, >sp|D4AV66|Negative... *
+1	182aa, >sp|Q5ATP7|Negative... at 43.96%
+>Cluster 890
+0	186aa, >sp|P80703|Negative... *
+>Cluster 891
+0	175aa, >sp|O95994|Negative... at 49.14%
+1	185aa, >sp|P55869|Negative... *
+>Cluster 892
+0	184aa, >sp|Q9CQS6|Negative... *
+>Cluster 893
+0	139aa, >sp|O76357|Negative... at 43.17%
+1	184aa, >sp|P83673|Negative... *
+>Cluster 894
+0	184aa, >sp|W1I921|Negative... *
+>Cluster 895
+0	183aa, >sp|P86987|Negative... *
+>Cluster 896
+0	183aa, >sp|C0HKG8|Negative... *
+1	183aa, >sp|C0HKG9|Negative... at 98.91%
+2	178aa, >sp|W5U5X5|Negative... at 42.70%
+3	183aa, >sp|C0HKG7|Negative... at 99.45%
+4	179aa, >sp|A0A059T2H4|Negative... at 77.09%
+>Cluster 897
+0	183aa, >sp|Q2XNF5|Negative... *
+>Cluster 898
+0	182aa, >sp|Q9D2S4|Negative... *
+>Cluster 899
+0	182aa, >sp|H2A0P0|Negative... *
+>Cluster 900
+0	181aa, >sp|Q7JR71|Negative... *
+>Cluster 901
+0	181aa, >sp|P86853|Negative... *
+>Cluster 902
+0	181aa, >sp|Q5FW60|Negative... *
+>Cluster 903
+0	180aa, >sp|P01344|Negative... *
+1	180aa, >sp|P09535|Negative... at 83.89%
+>Cluster 904
+0	180aa, >sp|Q28388|Negative... *
+>Cluster 905
+0	180aa, >sp|P09466|Negative... *
+>Cluster 906
+0	179aa, >sp|Q8BVC1|Negative... *
+>Cluster 907
+0	179aa, >sp|K9M1U5|Negative... *
+>Cluster 908
+0	179aa, >sp|I7GQA7|Negative... *
+>Cluster 909
+0	178aa, >sp|C6EVG7|Negative... *
+>Cluster 910
+0	178aa, >sp|Q8WT59|Negative... *
+1	178aa, >sp|Q8WT57|Negative... at 98.88%
+2	178aa, >sp|Q8MZJ8|Negative... at 97.19%
+3	178aa, >sp|Q8WT56|Negative... at 96.07%
+4	178aa, >sp|Q25619|Negative... at 98.88%
+>Cluster 911
+0	175aa, >sp|O73753|Negative... at 70.29%
+1	178aa, >sp|Q61477|Negative... *
+>Cluster 912
+0	177aa, >sp|G5EEC2|Negative... *
+1	59aa, >sp|P0DOZ7|Negative... at 40.68%
+>Cluster 913
+0	177aa, >sp|Q1MX22|Negative... *
+>Cluster 914
+0	176aa, >sp|C8VIP3|Negative... *
+1	171aa, >sp|Q5AVR1|Negative... at 49.12%
+>Cluster 915
+0	176aa, >sp|Q9U7D3|Negative... *
+>Cluster 916
+0	176aa, >sp|Q9LNF2|Negative... *
+>Cluster 917
+0	174aa, >sp|P42854|Negative... *
+>Cluster 918
+0	174aa, >sp|P86859|Negative... *
+>Cluster 919
+0	174aa, >sp|D4AYQ6|Negative... *
+>Cluster 920
+0	174aa, >sp|Q9FJR5|Negative... *
+>Cluster 921
+0	173aa, >sp|Q9VD83|Negative... *
+>Cluster 922
+0	173aa, >sp|P86728|Negative... *
+>Cluster 923
+0	166aa, >sp|Q9CPT4|Negative... at 87.35%
+1	173aa, >sp|Q969H8|Negative... *
+>Cluster 924
+0	172aa, >sp|Q99MG7|Negative... *
+1	172aa, >sp|Q9QXU1|Negative... at 86.05%
+>Cluster 925
+0	171aa, >sp|P86718|Negative... *
+1	166aa, >sp|P86716|Negative... at 87.35%
+>Cluster 926
+0	171aa, >sp|Q9NPH9|Negative... *
+>Cluster 927
+0	171aa, >sp|Q9CQ45|Negative... *
+>Cluster 928
+0	169aa, >sp|J7MFT5|Negative... *
+>Cluster 929
+0	169aa, >sp|P86737|Negative... *
+>Cluster 930
+0	169aa, >sp|O14944|Negative... *
+>Cluster 931
+0	168aa, >sp|A0ZT93|Negative... *
+1	163aa, >sp|P05140|Negative... at 69.94%
+>Cluster 932
+0	168aa, >sp|Q39176|Negative... *
+>Cluster 933
+0	168aa, >sp|Q9LNN7|Negative... *
+>Cluster 934
+0	168aa, >sp|P21246|Negative... *
+>Cluster 935
+0	138aa, >sp|P18998|Negative... at 41.30%
+1	168aa, >sp|Q9QZT4|Negative... *
+>Cluster 936
+0	167aa, >sp|Q9WVL7|Negative... *
+>Cluster 937
+0	167aa, >sp|O60844|Negative... *
+>Cluster 938
+0	167aa, >sp|O08692|Negative... *
+>Cluster 939
+0	166aa, >sp|Q90WJ8|Negative... *
+>Cluster 940
+0	165aa, >sp|P0DN87|Negative... *
+1	165aa, >sp|P0DN86|Negative... at 98.18%
+>Cluster 941
+0	161aa, >sp|Q20224|Negative... at 45.34%
+1	165aa, >sp|Q20222|Negative... *
+2	159aa, >sp|Q20223|Negative... at 40.88%
+>Cluster 942
+0	165aa, >sp|Q17RY6|Negative... *
+>Cluster 943
+0	165aa, >sp|O15496|Negative... *
+>Cluster 944
+0	164aa, >sp|B3A0R8|Negative... *
+>Cluster 945
+0	162aa, >sp|Q9DD06|Negative... *
+>Cluster 946
+0	162aa, >sp|R4ZCU1|Negative... *
+>Cluster 947
+0	162aa, >sp|G5EGH7|Negative... *
+>Cluster 948
+0	161aa, >sp|B3A0P9|Negative... *
+>Cluster 949
+0	156aa, >sp|Q09GK0|Negative... at 60.90%
+1	158aa, >sp|P0DM38|Negative... at 51.27%
+2	158aa, >sp|E2DQZ6|Negative... at 50.00%
+3	148aa, >sp|E2DQZ5|Negative... at 46.62%
+4	148aa, >sp|P0DM39|Negative... at 47.30%
+5	160aa, >sp|Q09GJ8|Negative... *
+>Cluster 950
+0	160aa, >sp|M5A8F1|Negative... *
+>Cluster 951
+0	160aa, >sp|D4B0F8|Negative... *
+>Cluster 952
+0	160aa, >sp|Q9Y6Y9|Negative... *
+1	160aa, >sp|P58754|Negative... at 63.75%
+2	160aa, >sp|Q9JHF9|Negative... at 63.75%
+>Cluster 953
+0	159aa, >sp|Q5W186|Negative... *
+>Cluster 954
+0	159aa, >sp|P01592|Negative... *
+>Cluster 955
+0	159aa, >sp|Q969D9|Negative... *
+1	140aa, >sp|Q9JIE6|Negative... at 42.14%
+>Cluster 956
+0	158aa, >sp|Q9BYZ8|Negative... *
+>Cluster 957
+0	158aa, >sp|P10124|Negative... *
+1	152aa, >sp|P13609|Negative... at 51.32%
+>Cluster 958
+0	158aa, >sp|P86958|Negative... *
+1	152aa, >sp|H2A0M1|Negative... at 80.26%
+>Cluster 959
+0	125aa, >sp|Q9SJ23|Negative... at 41.60%
+1	158aa, >sp|Q9SRD8|Negative... *
+>Cluster 960
+0	157aa, >sp|H2A0N5|Negative... *
+1	157aa, >sp|P86964|Negative... at 94.27%
+>Cluster 961
+0	157aa, >sp|Q6PXP0|Negative... *
+>Cluster 962
+0	156aa, >sp|Q9NDE7|Negative... *
+>Cluster 963
+0	156aa, >sp|Q9H1E1|Negative... *
+1	153aa, >sp|Q9D244|Negative... at 49.02%
+2	150aa, >sp|Q93091|Negative... at 54.00%
+>Cluster 964
+0	156aa, >sp|P86854|Negative... *
+>Cluster 965
+0	155aa, >sp|Q9HBE4|Negative... *
+1	146aa, >sp|Q76LU6|Negative... at 80.14%
+2	146aa, >sp|Q9ES17|Negative... at 63.01%
+3	146aa, >sp|Q76LU5|Negative... at 81.51%
+>Cluster 966
+0	127aa, >sp|Q9T039|Negative... at 40.16%
+1	125aa, >sp|Q9SJ24|Negative... at 45.60%
+2	155aa, >sp|Q9FGG1|Negative... *
+>Cluster 967
+0	155aa, >sp|G0Y276|Negative... *
+>Cluster 968
+0	155aa, >sp|Q5WRU0|Negative... *
+>Cluster 969
+0	153aa, >sp|P05017|Negative... *
+>Cluster 970
+0	150aa, >sp|P50390|Negative... at 61.33%
+1	147aa, >sp|P02767|Negative... at 65.31%
+2	150aa, >sp|P30623|Negative... at 61.33%
+3	150aa, >sp|O55245|Negative... at 62.00%
+4	149aa, >sp|P49141|Negative... at 63.76%
+5	147aa, >sp|O46654|Negative... at 59.86%
+6	150aa, >sp|P27731|Negative... at 64.67%
+7	149aa, >sp|Q29616|Negative... at 65.10%
+8	149aa, >sp|P49142|Negative... at 65.10%
+9	153aa, >sp|B7ZS96|Negative... *
+10	153aa, >sp|P31779|Negative... at 66.67%
+11	147aa, >sp|O46375|Negative... at 61.22%
+>Cluster 971
+0	153aa, >sp|Q08906|Negative... *
+>Cluster 972
+0	153aa, >sp|O02372|Negative... *
+>Cluster 973
+0	152aa, >sp|P86730|Negative... *
+>Cluster 974
+0	151aa, >sp|B3A0R1|Negative... *
+>Cluster 975
+0	151aa, >sp|O14960|Negative... *
+>Cluster 976
+0	151aa, >sp|B0FHH8|Negative... *
+>Cluster 977
+0	151aa, >sp|P61917|Negative... *
+1	149aa, >sp|O97763|Negative... at 83.22%
+2	151aa, >sp|P61916|Negative... at 100.00%
+3	149aa, >sp|Q9Z0J0|Negative... at 81.21%
+>Cluster 978
+0	151aa, >sp|Q9NIP6|Negative... *
+>Cluster 979
+0	151aa, >sp|Q96NZ9|Negative... *
+>Cluster 980
+0	143aa, >sp|Q330K6|Negative... at 69.23%
+1	146aa, >sp|Q90X23|Negative... at 68.49%
+2	150aa, >sp|C0K3N1|Negative... *
+3	144aa, >sp|P67861|Negative... at 65.97%
+4	146aa, >sp|Q90X24|Negative... at 69.18%
+5	146aa, >sp|P67862|Negative... at 68.49%
+6	145aa, >sp|P67863|Negative... at 68.97%
+>Cluster 981
+0	150aa, >sp|Q59DY5|Negative... *
+>Cluster 982
+0	150aa, >sp|Q56S59|Negative... *
+>Cluster 983
+0	148aa, >sp|P04054|Negative... at 41.22%
+1	149aa, >sp|G9I930|Negative... *
+>Cluster 984
+0	148aa, >sp|P33432|Negative... *
+1	148aa, >sp|Q10464|Negative... at 59.46%
+>Cluster 985
+0	148aa, >sp|Q9H1Z8|Negative... *
+1	148aa, >sp|Q99LS0|Negative... at 83.78%
+>Cluster 986
+0	148aa, >sp|P07492|Negative... *
+>Cluster 987
+0	145aa, >sp|Q9D925|Negative... at 46.90%
+1	146aa, >sp|P85045|Negative... at 45.21%
+2	148aa, >sp|O75951|Negative... *
+>Cluster 988
+0	146aa, >sp|H2A0N3|Negative... at 53.42%
+1	148aa, >sp|H2A0N2|Negative... *
+>Cluster 989
+0	148aa, >sp|P14844|Negative... *
+1	99aa, >sp|P13500|Negative... at 51.52%
+>Cluster 990
+0	148aa, >sp|P54191|Negative... *
+>Cluster 991
+0	148aa, >sp|Q8S8N6|Negative... *
+>Cluster 992
+0	148aa, >sp|P10152|Negative... *
+>Cluster 993
+0	148aa, >sp|D4B0M5|Negative... *
+>Cluster 994
+0	147aa, >sp|Q8IN42|Negative... *
+>Cluster 995
+0	146aa, >sp|P13432|Negative... *
+>Cluster 996
+0	141aa, >sp|P01037|Negative... at 57.45%
+1	141aa, >sp|P01036|Negative... at 57.45%
+2	146aa, >sp|P01034|Negative... *
+3	142aa, >sp|P28325|Negative... at 52.11%
+4	141aa, >sp|P09228|Negative... at 58.87%
+>Cluster 997
+0	146aa, >sp|P0DKQ7|Negative... *
+>Cluster 998
+0	146aa, >sp|H2A0M4|Negative... *
+>Cluster 999
+0	138aa, >sp|Q8QG87|Negative... at 42.03%
+1	139aa, >sp|C0HKC3|Negative... at 46.04%
+2	138aa, >sp|B5U6Y4|Negative... at 47.10%
+3	138aa, >sp|P00626|Negative... at 50.72%
+4	144aa, >sp|P14555|Negative... at 72.22%
+5	138aa, >sp|Q8AXY1|Negative... at 44.20%
+6	137aa, >sp|C0HKC2|Negative... at 47.45%
+7	137aa, >sp|P97391|Negative... at 46.72%
+8	146aa, >sp|P14423|Negative... *
+>Cluster 1000
+0	145aa, >sp|O76096|Negative... *
+>Cluster 1001
+0	145aa, >sp|B3A0R2|Negative... *
+>Cluster 1002
+0	132aa, >sp|A0A219CMY0|Negative... at 75.00%
+1	139aa, >sp|Q58T42|Negative... at 79.14%
+2	144aa, >sp|P83080|Negative... at 90.28%
+3	139aa, >sp|Q58T62|Negative... at 79.14%
+4	145aa, >sp|Q58T60|Negative... *
+5	144aa, >sp|P83083|Negative... at 76.39%
+6	144aa, >sp|Q58T52|Negative... at 75.00%
+7	144aa, >sp|P83081|Negative... at 90.97%
+8	144aa, >sp|Q58T79|Negative... at 75.69%
+9	139aa, >sp|Q58T44|Negative... at 79.14%
+10	144aa, >sp|Q58T41|Negative... at 90.28%
+11	139aa, >sp|Q58T77|Negative... at 77.70%
+12	144aa, >sp|Q58T61|Negative... at 97.22%
+13	144aa, >sp|Q58T74|Negative... at 91.67%
+14	145aa, >sp|P83084|Negative... at 98.62%
+>Cluster 1003
+0	128aa, >sp|Q1HA14|Negative... at 94.53%
+1	145aa, >sp|Q1HA20|Negative... *
+2	145aa, >sp|Q4QXT8|Negative... at 93.79%
+>Cluster 1004
+0	144aa, >sp|A0A0F7Z3J2|Negative... *
+>Cluster 1005
+0	144aa, >sp|P04141|Negative... *
+>Cluster 1006
+0	143aa, >sp|Q6EEH1|Negative... *
+>Cluster 1007
+0	142aa, >sp|P21750|Negative... *
+>Cluster 1008
+0	142aa, >sp|Q8IN41|Negative... *
+>Cluster 1009
+0	141aa, >sp|P86855|Negative... *
+>Cluster 1010
+0	141aa, >sp|H2A0N1|Negative... *
+>Cluster 1011
+0	141aa, >sp|Q8T0Y7|Negative... *
+>Cluster 1012
+0	141aa, >sp|Q9VJS7|Negative... *
+>Cluster 1013
+0	140aa, >sp|Q6T6T4|Negative... *
+>Cluster 1014
+0	140aa, >sp|Q6B9Z0|Negative... *
+>Cluster 1015
+0	133aa, >sp|Q7Z5A9|Negative... at 57.14%
+1	133aa, >sp|Q7Z5A8|Negative... at 63.16%
+2	132aa, >sp|Q7TPG6|Negative... at 65.91%
+3	140aa, >sp|Q96LR4|Negative... *
+>Cluster 1016
+0	131aa, >sp|Q9TW98|Negative... at 74.81%
+1	131aa, >sp|Q9TVT2|Negative... at 72.52%
+2	140aa, >sp|Q9NL39|Negative... *
+3	129aa, >sp|Q9UAH3|Negative... at 73.64%
+>Cluster 1017
+0	139aa, >sp|Q9BN21|Negative... *
+1	138aa, >sp|Q86RQ1|Negative... at 92.03%
+>Cluster 1018
+0	139aa, >sp|D4ARW0|Negative... *
+>Cluster 1019
+0	139aa, >sp|Q1L6U9|Negative... *
+>Cluster 1020
+0	138aa, >sp|P22977|Negative... *
+>Cluster 1021
+0	138aa, >sp|H2A0M2|Negative... *
+1	138aa, >sp|P86959|Negative... at 81.16%
+>Cluster 1022
+0	138aa, >sp|Q14BU0|Negative... *
+>Cluster 1023
+0	129aa, >sp|Q8IN44|Negative... at 51.94%
+1	129aa, >sp|Q8IN43|Negative... at 52.71%
+2	138aa, >sp|Q9VDH4|Negative... *
+>Cluster 1024
+0	137aa, >sp|Q9N5Z2|Negative... *
+>Cluster 1025
+0	136aa, >sp|Q9NRR1|Negative... *
+>Cluster 1026
+0	135aa, >sp|P86986|Negative... *
+>Cluster 1027
+0	135aa, >sp|G5ED35|Negative... *
+>Cluster 1028
+0	70aa, >sp|A0A193H395|Negative... at 55.71%
+1	75aa, >sp|A0A193H397|Negative... at 52.00%
+2	61aa, >sp|Q0VTU0|Negative... at 67.21%
+3	61aa, >sp|L0PIN3|Negative... at 67.21%
+4	61aa, >sp|Q0VTT8|Negative... at 67.21%
+5	62aa, >sp|Q0VTT9|Negative... at 66.13%
+6	61aa, >sp|A0A088MI62|Negative... at 83.61%
+7	134aa, >sp|A0A088MIT0|Negative... *
+8	61aa, >sp|P84899|Negative... at 65.57%
+9	61aa, >sp|L0PJV8|Negative... at 70.49%
+10	58aa, >sp|P86093|Negative... at 53.45%
+11	61aa, >sp|C0HJF6|Negative... at 45.90%
+12	62aa, >sp|P83455|Negative... at 50.00%
+13	75aa, >sp|B6HY16|Negative... at 48.00%
+14	79aa, >sp|P86038|Negative... at 50.63%
+15	80aa, >sp|P86188|Negative... at 50.00%
+16	80aa, >sp|P86037|Negative... at 50.00%
+17	80aa, >sp|P86040|Negative... at 50.00%
+18	66aa, >sp|Q0VZ39|Negative... at 59.09%
+19	66aa, >sp|Q0VZ40|Negative... at 59.09%
+20	66aa, >sp|Q0VZ38|Negative... at 60.61%
+21	63aa, >sp|P85881|Negative... at 52.38%
+22	66aa, >sp|P84567|Negative... at 57.58%
+>Cluster 1029
+0	134aa, >sp|A4ZDL6|Negative... *
+>Cluster 1030
+0	134aa, >sp|Q8INV7|Negative... *
+1	125aa, >sp|Q9VIR2|Negative... at 51.20%
+>Cluster 1031
+0	133aa, >sp|Q8MVB6|Negative... *
+>Cluster 1032
+0	133aa, >sp|Q00604|Negative... *
+>Cluster 1033
+0	133aa, >sp|P61366|Negative... *
+1	130aa, >sp|P61364|Negative... at 76.92%
+2	132aa, >sp|P61365|Negative... at 78.03%
+>Cluster 1034
+0	132aa, >sp|P03973|Negative... *
+1	129aa, >sp|P22298|Negative... at 67.44%
+2	131aa, >sp|P97430|Negative... at 58.78%
+3	132aa, >sp|Q6V9X0|Negative... at 68.18%
+>Cluster 1035
+0	132aa, >sp|A1EC31|Negative... *
+>Cluster 1036
+0	132aa, >sp|Q2R222|Negative... *
+>Cluster 1037
+0	132aa, >sp|P86960|Negative... *
+>Cluster 1038
+0	131aa, >sp|O24602|Negative... at 72.52%
+1	125aa, >sp|O24567|Negative... at 71.20%
+2	132aa, >sp|O24565|Negative... *
+>Cluster 1039
+0	62aa, >sp|C5J8E3|Negative... at 48.39%
+1	71aa, >sp|A0A193H362|Negative... at 54.93%
+2	75aa, >sp|A0A193H396|Negative... at 49.33%
+3	75aa, >sp|A0A193H361|Negative... at 50.67%
+4	75aa, >sp|A0A193H365|Negative... at 50.67%
+5	72aa, >sp|B6HY14|Negative... at 54.17%
+6	75aa, >sp|A0A193H329|Negative... at 50.67%
+7	77aa, >sp|Q17UZ0|Negative... at 45.45%
+8	103aa, >sp|B5LUQ8|Negative... at 85.44%
+9	109aa, >sp|B5LUR0|Negative... at 77.98%
+10	73aa, >sp|Q1EJP5|Negative... at 53.42%
+11	67aa, >sp|B5LUQ4|Negative... at 62.69%
+12	94aa, >sp|B5LUR1|Negative... at 86.17%
+13	123aa, >sp|B5LUQ7|Negative... at 93.50%
+14	91aa, >sp|B5LUQ3|Negative... at 69.23%
+15	132aa, >sp|B5LUQ9|Negative... *
+16	68aa, >sp|Q1EJP4|Negative... at 52.94%
+17	70aa, >sp|P84596|Negative... at 57.14%
+18	73aa, >sp|J7H8J4|Negative... at 52.05%
+19	69aa, >sp|Q17UY8|Negative... at 59.42%
+20	66aa, >sp|P85882|Negative... at 57.58%
+21	66aa, >sp|P84572|Negative... at 57.58%
+22	73aa, >sp|C0HK02|Negative... at 52.05%
+23	73aa, >sp|C0HK03|Negative... at 50.68%
+24	66aa, >sp|Q0VZ41|Negative... at 57.58%
+25	73aa, >sp|C0HK01|Negative... at 50.68%
+26	66aa, >sp|C0HJZ8|Negative... at 56.06%
+27	66aa, >sp|C0HJZ6|Negative... at 54.55%
+28	66aa, >sp|C0HJZ7|Negative... at 54.55%
+29	66aa, >sp|C0HJZ9|Negative... at 56.06%
+30	66aa, >sp|C0HK00|Negative... at 54.55%
+31	66aa, >sp|P85883|Negative... at 57.58%
+32	57aa, >sp|Q17UY9|Negative... at 54.39%
+33	62aa, >sp|Q0VKG9|Negative... at 59.68%
+34	81aa, >sp|B6HY15|Negative... at 49.38%
+>Cluster 1040
+0	132aa, >sp|O00253|Negative... *
+>Cluster 1041
+0	131aa, >sp|Q9VMR8|Negative... *
+>Cluster 1042
+0	130aa, >sp|Q98967|Negative... *
+>Cluster 1043
+0	130aa, >sp|P86738|Negative... *
+>Cluster 1044
+0	129aa, >sp|P85257|Negative... *
+1	129aa, >sp|P85247|Negative... at 86.05%
+2	129aa, >sp|P85258|Negative... at 97.67%
+3	129aa, >sp|P85255|Negative... at 97.67%
+4	129aa, >sp|P85256|Negative... at 97.67%
+5	129aa, >sp|P85259|Negative... at 96.90%
+6	129aa, >sp|P85254|Negative... at 97.67%
+7	129aa, >sp|P85253|Negative... at 98.45%
+8	84aa, >sp|Q1ELU1|Negative... at 54.76%
+9	84aa, >sp|Q1ELU0|Negative... at 54.76%
+>Cluster 1045
+0	129aa, >sp|Q8LG89|Negative... *
+>Cluster 1046
+0	129aa, >sp|Q6EV79|Negative... *
+1	129aa, >sp|P01225|Negative... at 96.12%
+>Cluster 1047
+0	129aa, >sp|D4AVI0|Negative... *
+>Cluster 1048
+0	128aa, >sp|P05486|Negative... *
+>Cluster 1049
+0	128aa, >sp|P86984|Negative... *
+>Cluster 1050
+0	128aa, >sp|Q9GQV7|Negative... *
+>Cluster 1051
+0	128aa, >sp|Q6T6T3|Negative... *
+1	128aa, >sp|Q6T6T2|Negative... at 95.31%
+2	128aa, >sp|Q3BER3|Negative... at 83.59%
+3	115aa, >sp|Q3BER4|Negative... at 83.48%
+>Cluster 1052
+0	128aa, >sp|Q9XYT4|Negative... *
+>Cluster 1053
+0	127aa, >sp|P86899|Negative... *
+>Cluster 1054
+0	126aa, >sp|Q5D710|Negative... *
+1	126aa, >sp|A1YV58|Negative... at 92.86%
+>Cluster 1055
+0	125aa, >sp|Q8WRC7|Negative... *
+>Cluster 1056
+0	125aa, >sp|K0P7H2|Negative... *
+>Cluster 1057
+0	124aa, >sp|C0HJV6|Negative... *
+>Cluster 1058
+0	124aa, >sp|Q14508|Negative... *
+>Cluster 1059
+0	123aa, >sp|Q9BEE3|Negative... *
+>Cluster 1060
+0	113aa, >sp|A0A0B5A8P4|Negative... at 55.75%
+1	123aa, >sp|A0A0F7YYV0|Negative... *
+2	115aa, >sp|A0A0B5AC95|Negative... at 51.30%
+>Cluster 1061
+0	123aa, >sp|P83288|Negative... *
+>Cluster 1062
+0	123aa, >sp|P22466|Negative... *
+1	123aa, >sp|P07480|Negative... at 72.36%
+>Cluster 1063
+0	123aa, >sp|P0CB20|Negative... *
+>Cluster 1064
+0	123aa, >sp|H2A0M6|Negative... *
+>Cluster 1065
+0	122aa, >sp|P0DJI8|Negative... *
+1	122aa, >sp|P05366|Negative... at 73.77%
+>Cluster 1066
+0	122aa, >sp|Q0H293|Negative... *
+1	117aa, >sp|P80957|Negative... at 41.88%
+>Cluster 1067
+0	121aa, >sp|Q9CXL7|Negative... *
+>Cluster 1068
+0	121aa, >sp|P83558|Negative... *
+>Cluster 1069
+0	97aa, >sp|Q1ELV0|Negative... at 49.48%
+1	93aa, >sp|Q1ELU9|Negative... at 41.94%
+2	82aa, >sp|Q1ELU3|Negative... at 50.00%
+3	82aa, >sp|Q1ELU2|Negative... at 50.00%
+4	88aa, >sp|Q1ELT9|Negative... at 47.73%
+5	121aa, >sp|C0HJV7|Negative... *
+6	121aa, >sp|C0HJV8|Negative... at 97.52%
+>Cluster 1070
+0	121aa, >sp|B3A0Q9|Negative... *
+>Cluster 1071
+0	120aa, >sp|Q9FZE4|Negative... *
+>Cluster 1072
+0	120aa, >sp|Q9BEH3|Negative... *
+1	116aa, >sp|P01215|Negative... at 83.62%
+>Cluster 1073
+0	120aa, >sp|P86983|Negative... *
+>Cluster 1074
+0	120aa, >sp|Q9Z1X0|Negative... *
+>Cluster 1075
+0	119aa, >sp|B3A0R9|Negative... *
+>Cluster 1076
+0	119aa, >sp|P61769|Negative... *
+>Cluster 1077
+0	119aa, >sp|Q6UXB2|Negative... *
+>Cluster 1078
+0	118aa, >sp|Q42589|Negative... *
+>Cluster 1079
+0	105aa, >sp|Q99P86|Negative... at 66.67%
+1	117aa, >sp|Q8K426|Negative... *
+>Cluster 1080
+0	117aa, >sp|Q9EQX0|Negative... *
+>Cluster 1081
+0	116aa, >sp|Q3E880|Negative... *
+>Cluster 1082
+0	116aa, >sp|D3Z752|Negative... *
+>Cluster 1083
+0	116aa, >sp|Q1ELU7|Negative... *
+1	116aa, >sp|Q1ELU8|Negative... at 98.28%
+>Cluster 1084
+0	116aa, >sp|C9K4X8|Negative... *
+>Cluster 1085
+0	112aa, >sp|P17727|Negative... at 45.54%
+1	116aa, >sp|P81790|Negative... *
+>Cluster 1086
+0	116aa, >sp|Q9VKI3|Negative... *
+>Cluster 1087
+0	115aa, >sp|Q8T0W1|Negative... *
+>Cluster 1088
+0	115aa, >sp|B3FIN4|Negative... *
+>Cluster 1089
+0	115aa, >sp|Q9VAK8|Negative... *
+>Cluster 1090
+0	114aa, >sp|Q99P87|Negative... *
+>Cluster 1091
+0	113aa, >sp|Q9GSA4|Negative... *
+>Cluster 1092
+0	113aa, >sp|Q99ML8|Negative... *
+>Cluster 1093
+0	113aa, >sp|H2A0P1|Negative... *
+>Cluster 1094
+0	112aa, >sp|Q941C5|Negative... *
+1	99aa, >sp|Q84W98|Negative... at 55.56%
+>Cluster 1095
+0	112aa, >sp|P0DL36|Negative... *
+>Cluster 1096
+0	111aa, >sp|P83228|Negative... *
+>Cluster 1097
+0	111aa, >sp|A8R0V4|Negative... *
+>Cluster 1098
+0	108aa, >sp|B3EWF6|Negative... at 61.11%
+1	109aa, >sp|B3EWF4|Negative... at 80.73%
+2	111aa, >sp|B3EWF5|Negative... *
+>Cluster 1099
+0	109aa, >sp|A0S864|Negative... at 74.31%
+1	111aa, >sp|Q06ZW0|Negative... *
+2	111aa, >sp|A0S865|Negative... at 72.97%
+>Cluster 1100
+0	110aa, >sp|Q6UW32|Negative... *
+>Cluster 1101
+0	110aa, >sp|P86726|Negative... *
+>Cluster 1102
+0	110aa, >sp|Q86LE5|Negative... *
+>Cluster 1103
+0	109aa, >sp|Q8MMH0|Negative... *
+>Cluster 1104
+0	109aa, >sp|H2A0M8|Negative... *
+>Cluster 1105
+0	109aa, >sp|D3Z9M3|Negative... *
+>Cluster 1106
+0	83aa, >sp|P01412|Negative... at 50.60%
+1	95aa, >sp|P60615|Negative... at 69.47%
+2	86aa, >sp|Q2VBN2|Negative... at 52.33%
+3	108aa, >sp|F8J2B3|Negative... *
+4	81aa, >sp|P60301|Negative... at 51.85%
+5	86aa, >sp|A2CKF6|Negative... at 58.14%
+6	84aa, >sp|C6JUP1|Negative... at 42.86%
+7	75aa, >sp|A1IVR8|Negative... at 66.67%
+8	81aa, >sp|P60303|Negative... at 51.85%
+9	81aa, >sp|P80245|Negative... at 51.85%
+10	86aa, >sp|P0C554|Negative... at 53.49%
+11	86aa, >sp|Q9YGI0|Negative... at 41.86%
+12	84aa, >sp|Q69CK0|Negative... at 48.81%
+13	88aa, >sp|A6MFK4|Negative... at 68.18%
+14	91aa, >sp|Q53B57|Negative... at 61.54%
+15	92aa, >sp|F8J2E1|Negative... at 66.30%
+16	94aa, >sp|P01384|Negative... at 70.21%
+17	86aa, >sp|P82935|Negative... at 53.49%
+18	93aa, >sp|Q2VBP5|Negative... at 63.44%
+19	88aa, >sp|A6MFK5|Negative... at 67.05%
+20	108aa, >sp|F8J2D7|Negative... at 99.07%
+21	81aa, >sp|P68416|Negative... at 55.56%
+22	81aa, >sp|Q5UFR8|Negative... at 51.85%
+23	81aa, >sp|K9MCH1|Negative... at 54.32%
+24	83aa, >sp|Q45Z11|Negative... at 54.22%
+25	83aa, >sp|P25497|Negative... at 57.83%
+26	81aa, >sp|F8J2G3|Negative... at 59.26%
+27	81aa, >sp|P19959|Negative... at 54.32%
+28	79aa, >sp|P62376|Negative... at 51.90%
+29	83aa, >sp|P10457|Negative... at 56.63%
+30	78aa, >sp|F8J2G5|Negative... at 55.13%
+31	79aa, >sp|K9MCX0|Negative... at 49.37%
+32	78aa, >sp|Q53B52|Negative... at 48.72%
+33	86aa, >sp|C1IC49|Negative... at 55.81%
+34	96aa, >sp|B2BRQ5|Negative... at 61.46%
+35	83aa, >sp|C1IC48|Negative... at 54.22%
+36	81aa, >sp|F5CPD5|Negative... at 53.09%
+37	83aa, >sp|F5CPD6|Negative... at 49.40%
+38	83aa, >sp|F5CPD7|Negative... at 51.81%
+39	81aa, >sp|F5CPD8|Negative... at 50.62%
+40	83aa, >sp|F5CPD9|Negative... at 50.60%
+41	83aa, >sp|F5CPE4|Negative... at 51.81%
+42	83aa, >sp|P10459|Negative... at 56.63%
+43	83aa, >sp|P60770|Negative... at 51.81%
+44	83aa, >sp|P60771|Negative... at 51.81%
+45	83aa, >sp|Q9PTT0|Negative... at 50.60%
+46	82aa, >sp|P80958|Negative... at 53.66%
+47	83aa, >sp|P10456|Negative... at 54.22%
+48	83aa, >sp|P60775|Negative... at 55.42%
+49	83aa, >sp|Q90VW1|Negative... at 55.42%
+50	83aa, >sp|Q7T2I5|Negative... at 55.42%
+51	81aa, >sp|P60304|Negative... at 55.56%
+52	86aa, >sp|A8N286|Negative... at 52.33%
+53	81aa, >sp|P01404|Negative... at 48.15%
+54	78aa, >sp|P0DKR6|Negative... at 55.13%
+55	86aa, >sp|Q9YGI4|Negative... at 53.49%
+56	92aa, >sp|F8J2E5|Negative... at 65.22%
+57	86aa, >sp|A2CKF7|Negative... at 56.98%
+58	89aa, >sp|P14612|Negative... at 58.43%
+59	87aa, >sp|P15817|Negative... at 49.43%
+60	89aa, >sp|Q9YGJ0|Negative... at 49.44%
+61	81aa, >sp|P60302|Negative... at 51.85%
+62	84aa, >sp|F5CPE6|Negative... at 51.19%
+63	83aa, >sp|P62375|Negative... at 53.01%
+64	80aa, >sp|F5CPE0|Negative... at 48.75%
+65	95aa, >sp|P60616|Negative... at 69.47%
+66	81aa, >sp|P01443|Negative... at 55.56%
+67	81aa, >sp|O73857|Negative... at 54.32%
+68	72aa, >sp|A0A0U5AUY6|Negative... at 44.44%
+69	86aa, >sp|Q53B49|Negative... at 55.81%
+70	86aa, >sp|Q8QGR0|Negative... at 51.16%
+71	81aa, >sp|O73856|Negative... at 50.62%
+72	80aa, >sp|P18329|Negative... at 47.50%
+73	78aa, >sp|Q9PUB7|Negative... at 52.56%
+74	78aa, >sp|Q9PRI1|Negative... at 52.56%
+75	86aa, >sp|P18328|Negative... at 48.84%
+76	93aa, >sp|Q53B58|Negative... at 66.67%
+77	92aa, >sp|F8J2E2|Negative... at 63.04%
+78	87aa, >sp|P15818|Negative... at 55.17%
+79	103aa, >sp|Q9PW19|Negative... at 40.78%
+80	88aa, >sp|F8J2E6|Negative... at 70.45%
+81	90aa, >sp|Q53B53|Negative... at 65.56%
+82	83aa, >sp|C1IC47|Negative... at 53.01%
+83	82aa, >sp|F5CPE2|Negative... at 45.12%
+84	82aa, >sp|C6JUP3|Negative... at 47.56%
+85	74aa, >sp|F5CPE3|Negative... at 54.05%
+86	78aa, >sp|Q53B47|Negative... at 47.44%
+87	91aa, >sp|P82662|Negative... at 57.14%
+88	87aa, >sp|P01379|Negative... at 59.77%
+89	90aa, >sp|O42257|Negative... at 64.44%
+90	95aa, >sp|Q7T3J2|Negative... at 69.47%
+91	88aa, >sp|F8J2F2|Negative... at 70.45%
+92	91aa, >sp|Q2VBP4|Negative... at 57.14%
+93	86aa, >sp|P58370|Negative... at 56.98%
+94	103aa, >sp|Q9W7J5|Negative... at 68.93%
+95	87aa, >sp|P81783|Negative... at 55.17%
+96	87aa, >sp|P15816|Negative... at 50.57%
+97	103aa, >sp|Q8JFX7|Negative... at 40.78%
+98	87aa, >sp|P01398|Negative... at 51.72%
+99	88aa, >sp|C6JUP2|Negative... at 45.45%
+>Cluster 1107
+0	107aa, >sp|P58806|Negative... *
+1	100aa, >sp|P07231|Negative... at 79.00%
+>Cluster 1108
+0	107aa, >sp|P84213|Negative... *
+>Cluster 1109
+0	107aa, >sp|Q6T6C1|Negative... *
+>Cluster 1110
+0	106aa, >sp|P83636|Negative... *
+>Cluster 1111
+0	105aa, >sp|Q8BT20|Negative... *
+>Cluster 1112
+0	105aa, >sp|P83560|Negative... *
+>Cluster 1113
+0	101aa, >sp|Q6B4T5|Negative... at 54.46%
+1	105aa, >sp|Q6B4T4|Negative... *
+>Cluster 1114
+0	91aa, >sp|Q920H1|Negative... at 40.66%
+1	93aa, >sp|Q96PL1|Negative... at 49.46%
+2	104aa, >sp|Q96QR1|Negative... *
+>Cluster 1115
+0	103aa, >sp|P55000|Negative... *
+>Cluster 1116
+0	99aa, >sp|P60985|Negative... at 56.57%
+1	102aa, >sp|Q3V2T4|Negative... *
+>Cluster 1117
+0	102aa, >sp|Q9SV72|Negative... *
+>Cluster 1118
+0	102aa, >sp|Q3LHH8|Negative... *
+>Cluster 1119
+0	102aa, >sp|Q9VET0|Negative... *
+>Cluster 1120
+0	101aa, >sp|P02776|Negative... *
+>Cluster 1121
+0	101aa, >sp|P02655|Negative... *
+>Cluster 1122
+0	100aa, >sp|A0A0F7YZQ7|Negative... *
+>Cluster 1123
+0	98aa, >sp|P86965|Negative... at 86.73%
+1	100aa, >sp|H2A0N6|Negative... *
+>Cluster 1124
+0	100aa, >sp|P02652|Negative... *
+>Cluster 1125
+0	99aa, >sp|Q3UN54|Negative... *
+1	99aa, >sp|Q9QXN2|Negative... at 40.40%
+>Cluster 1126
+0	99aa, >sp|B3FIV1|Negative... *
+>Cluster 1127
+0	98aa, >sp|P83404|Negative... at 44.90%
+1	98aa, >sp|P91793|Negative... at 80.61%
+2	92aa, >sp|P36192|Negative... at 41.30%
+3	98aa, >sp|P81602|Negative... at 79.59%
+4	99aa, >sp|P81603|Negative... *
+5	92aa, >sp|P86471|Negative... at 48.91%
+>Cluster 1128
+0	98aa, >sp|A0A1R3S3A8|Negative... *
+>Cluster 1129
+0	97aa, >sp|P0DP57|Negative... *
+>Cluster 1130
+0	97aa, >sp|D3ZVP0|Negative... *
+>Cluster 1131
+0	97aa, >sp|P19425|Negative... *
+>Cluster 1132
+0	97aa, >sp|Q6T6C2|Negative... *
+>Cluster 1133
+0	97aa, >sp|Q84J95|Negative... *
+>Cluster 1134
+0	96aa, >sp|Q9XF04|Negative... *
+>Cluster 1135
+0	96aa, >sp|Q9PW66|Negative... *
+>Cluster 1136
+0	96aa, >sp|P0DM18|Negative... *
+1	92aa, >sp|P0DM19|Negative... at 78.26%
+2	92aa, >sp|P0DM20|Negative... at 77.17%
+>Cluster 1137
+0	96aa, >sp|P78556|Negative... *
+>Cluster 1138
+0	92aa, >sp|P0C1W5|Negative... at 59.78%
+1	95aa, >sp|A0A0A0VBX4|Negative... *
+2	94aa, >sp|C3VVN6|Negative... at 60.64%
+3	95aa, >sp|P0C1W6|Negative... at 52.63%
+4	94aa, >sp|C3VVN5|Negative... at 63.83%
+>Cluster 1139
+0	95aa, >sp|P84809|Negative... *
+1	94aa, >sp|Q95P90|Negative... at 52.13%
+>Cluster 1140
+0	94aa, >sp|Q07654|Negative... *
+1	81aa, >sp|Q03191|Negative... at 67.90%
+2	84aa, >sp|P04155|Negative... at 41.67%
+>Cluster 1141
+0	94aa, >sp|Q01523|Negative... *
+>Cluster 1142
+0	94aa, >sp|P49126|Negative... *
+>Cluster 1143
+0	94aa, >sp|K7N5K9|Negative... *
+>Cluster 1144
+0	94aa, >sp|Q4VP09|Negative... *
+1	91aa, >sp|Q4VP10|Negative... at 82.42%
+2	90aa, >sp|A8MRC6|Negative... at 80.00%
+3	90aa, >sp|P0CAY6|Negative... at 81.11%
+4	90aa, >sp|Q4VP08|Negative... at 80.00%
+>Cluster 1145
+0	94aa, >sp|Q9Y258|Negative... *
+>Cluster 1146
+0	93aa, >sp|P0DM17|Negative... *
+>Cluster 1147
+0	88aa, >sp|P58924|Negative... at 55.68%
+1	88aa, >sp|X5IWT5|Negative... at 62.50%
+2	93aa, >sp|P0C1W3|Negative... *
+>Cluster 1148
+0	92aa, >sp|D0EXD3|Negative... *
+>Cluster 1149
+0	91aa, >sp|P86822|Negative... *
+>Cluster 1150
+0	91aa, >sp|P69939|Negative... *
+1	87aa, >sp|P69940|Negative... at 67.82%
+>Cluster 1151
+0	91aa, >sp|M9P2C1|Negative... *
+1	55aa, >sp|A6MWS7|Negative... at 45.45%
+2	55aa, >sp|A6MWS9|Negative... at 43.64%
+>Cluster 1152
+0	80aa, >sp|Q4LCT0|Negative... at 63.75%
+1	80aa, >sp|Q4LCS9|Negative... at 62.50%
+2	82aa, >sp|Q4LCS8|Negative... at 58.54%
+3	91aa, >sp|P84810|Negative... *
+>Cluster 1153
+0	91aa, >sp|Q8L8Y3|Negative... *
+>Cluster 1154
+0	82aa, >sp|P04002|Negative... at 82.93%
+1	91aa, >sp|P07835|Negative... *
+>Cluster 1155
+0	90aa, >sp|Q30HU9|Negative... *
+1	85aa, >sp|B9A8D7|Negative... at 40.00%
+>Cluster 1156
+0	90aa, >sp|Q5MJP5|Negative... *
+>Cluster 1157
+0	90aa, >sp|Q8CEK3|Negative... *
+>Cluster 1158
+0	90aa, >sp|P86961|Negative... *
+>Cluster 1159
+0	86aa, >sp|B1P1D9|Negative... at 73.26%
+1	86aa, >sp|P0C247|Negative... at 72.09%
+2	86aa, >sp|B1P1E0|Negative... at 72.09%
+3	86aa, >sp|B1P1E3|Negative... at 74.42%
+4	86aa, >sp|P0CH56|Negative... at 68.60%
+5	86aa, >sp|B1P1E1|Negative... at 72.09%
+6	86aa, >sp|B1P1E2|Negative... at 72.09%
+7	86aa, >sp|B1P1F4|Negative... at 69.77%
+8	86aa, >sp|B1P1F3|Negative... at 69.77%
+9	89aa, >sp|P0DL57|Negative... at 93.26%
+10	90aa, >sp|P0DL58|Negative... *
+>Cluster 1160
+0	90aa, >sp|P81792|Negative... *
+>Cluster 1161
+0	90aa, >sp|P0DM16|Negative... *
+>Cluster 1162
+0	89aa, >sp|P10997|Negative... *
+>Cluster 1163
+0	83aa, >sp|D2Y1X6|Negative... at 66.27%
+1	83aa, >sp|D2Y1Z4|Negative... at 63.86%
+2	83aa, >sp|D2Y1Z8|Negative... at 63.86%
+3	83aa, >sp|D2Y2D1|Negative... at 63.86%
+4	83aa, >sp|D2Y1Y3|Negative... at 63.86%
+5	83aa, >sp|D2Y1Z7|Negative... at 66.27%
+6	83aa, >sp|D2Y2D2|Negative... at 63.86%
+7	83aa, >sp|D2Y2D3|Negative... at 63.86%
+8	83aa, >sp|D2Y2I3|Negative... at 63.86%
+9	83aa, >sp|D2Y1X7|Negative... at 65.06%
+10	83aa, >sp|D2Y1X8|Negative... at 65.06%
+11	83aa, >sp|D2Y1X9|Negative... at 65.06%
+12	83aa, >sp|D2Y1Y0|Negative... at 63.86%
+13	83aa, >sp|D2Y1Y1|Negative... at 63.86%
+14	83aa, >sp|D2Y1Y2|Negative... at 62.65%
+15	82aa, >sp|P0DJA9|Negative... at 50.00%
+16	87aa, >sp|P61103|Negative... at 57.47%
+17	89aa, >sp|P83303|Negative... *
+18	79aa, >sp|P0DM66|Negative... at 43.04%
+19	86aa, >sp|D2Y2D7|Negative... at 89.53%
+20	86aa, >sp|D2Y232|Negative... at 90.70%
+21	86aa, >sp|D2Y233|Negative... at 90.70%
+>Cluster 1164
+0	89aa, >sp|Q9XW71|Negative... *
+>Cluster 1165
+0	88aa, >sp|O61668|Negative... *
+>Cluster 1166
+0	84aa, >sp|Q5D231|Negative... at 58.33%
+1	88aa, >sp|Q5D230|Negative... *
+2	88aa, >sp|Q5D228|Negative... at 98.86%
+3	88aa, >sp|Q5D229|Negative... at 98.86%
+>Cluster 1167
+0	88aa, >sp|Q9GU58|Negative... *
+>Cluster 1168
+0	88aa, >sp|P49125|Negative... *
+>Cluster 1169
+0	82aa, >sp|P59368|Negative... at 52.44%
+1	81aa, >sp|P59367|Negative... at 54.32%
+2	82aa, >sp|P29425|Negative... at 85.37%
+3	82aa, >sp|O76199|Negative... at 86.59%
+4	88aa, >sp|P29423|Negative... *
+>Cluster 1170
+0	88aa, >sp|Q4U4N3|Negative... *
+>Cluster 1171
+0	88aa, >sp|Q8I817|Negative... *
+>Cluster 1172
+0	82aa, >sp|P19855|Negative... at 47.56%
+1	87aa, >sp|P01493|Negative... *
+2	87aa, >sp|P60266|Negative... at 63.22%
+3	83aa, >sp|F8UWP3|Negative... at 46.99%
+4	87aa, >sp|B7FDP2|Negative... at 93.10%
+5	87aa, >sp|P01494|Negative... at 96.55%
+6	87aa, >sp|P45663|Negative... at 94.25%
+7	87aa, >sp|P01492|Negative... at 85.06%
+>Cluster 1173
+0	82aa, >sp|P0DL78|Negative... at 80.49%
+1	83aa, >sp|B1P1A5|Negative... at 83.13%
+2	83aa, >sp|B1P1A6|Negative... at 85.54%
+3	87aa, >sp|B1P1A8|Negative... *
+4	87aa, >sp|B1P1A7|Negative... at 94.25%
+5	85aa, >sp|P82959|Negative... at 55.29%
+6	87aa, >sp|P0DL77|Negative... at 86.21%
+>Cluster 1174
+0	87aa, >sp|Q4WZ11|Negative... *
+>Cluster 1175
+0	87aa, >sp|P85079|Negative... *
+>Cluster 1176
+0	87aa, >sp|Q8WTD4|Negative... *
+>Cluster 1177
+0	87aa, >sp|A6YR21|Negative... *
+1	87aa, >sp|A6YR20|Negative... at 98.85%
+>Cluster 1178
+0	87aa, >sp|P07457|Negative... *
+>Cluster 1179
+0	85aa, >sp|P01484|Negative... at 43.53%
+1	82aa, >sp|F1CGT6|Negative... at 45.12%
+2	86aa, >sp|P60213|Negative... *
+3	84aa, >sp|O77463|Negative... at 48.81%
+4	84aa, >sp|C0HJM9|Negative... at 46.43%
+5	86aa, >sp|P60215|Negative... at 72.09%
+6	84aa, >sp|P15226|Negative... at 57.14%
+7	86aa, >sp|P60214|Negative... at 73.26%
+8	83aa, >sp|E7CLP2|Negative... at 43.37%
+>Cluster 1180
+0	85aa, >sp|B3EWF2|Negative... at 60.00%
+1	86aa, >sp|B3EWF3|Negative... *
+>Cluster 1181
+0	85aa, >sp|P84685|Negative... *
+1	84aa, >sp|P84688|Negative... at 82.14%
+>Cluster 1182
+0	82aa, >sp|B7SNV8|Negative... at 47.56%
+1	72aa, >sp|P01485|Negative... at 87.50%
+2	84aa, >sp|O61705|Negative... at 57.14%
+3	85aa, >sp|Q7YXD3|Negative... *
+>Cluster 1183
+0	85aa, >sp|Q8T0W5|Negative... *
+>Cluster 1184
+0	85aa, >sp|P0C8S5|Negative... *
+>Cluster 1185
+0	85aa, >sp|P83580|Negative... *
+>Cluster 1186
+0	85aa, >sp|P42634|Negative... *
+>Cluster 1187
+0	85aa, >sp|B1NWS8|Negative... *
+1	84aa, >sp|D2KX91|Negative... at 52.38%
+2	85aa, >sp|B1NWS1|Negative... at 97.65%
+3	85aa, >sp|P0CH90|Negative... at 98.82%
+4	85aa, >sp|P0CH46|Negative... at 97.65%
+5	85aa, >sp|A7SCE5|Negative... at 94.12%
+6	84aa, >sp|D2KX90|Negative... at 51.19%
+7	85aa, >sp|P0CH45|Negative... at 97.65%
+8	84aa, >sp|D2KX92|Negative... at 52.38%
+9	85aa, >sp|B1NWS4|Negative... at 97.65%
+10	85aa, >sp|B1NWR6|Negative... at 97.65%
+11	85aa, >sp|B1NWR7|Negative... at 97.65%
+>Cluster 1188
+0	84aa, >sp|P84693|Negative... *
+>Cluster 1189
+0	84aa, >sp|D5J6X1|Negative... *
+>Cluster 1190
+0	84aa, >sp|P81791|Negative... *
+>Cluster 1191
+0	84aa, >sp|E7BLC7|Negative... *
+>Cluster 1192
+0	84aa, >sp|G9I929|Negative... *
+1	81aa, >sp|C1IC52|Negative... at 55.56%
+>Cluster 1193
+0	83aa, >sp|Q9EQ21|Negative... *
+>Cluster 1194
+0	83aa, >sp|Q2PAY4|Negative... *
+1	81aa, >sp|P61409|Negative... at 65.43%
+>Cluster 1195
+0	83aa, >sp|O76200|Negative... *
+>Cluster 1196
+0	83aa, >sp|P60272|Negative... *
+>Cluster 1197
+0	77aa, >sp|P56714|Negative... at 58.44%
+1	82aa, >sp|Q26443|Negative... *
+2	81aa, >sp|P58913|Negative... at 59.26%
+3	78aa, >sp|Q9U655|Negative... at 58.97%
+4	82aa, >sp|P56708|Negative... at 95.12%
+5	77aa, >sp|Q9TWM7|Negative... at 59.74%
+6	82aa, >sp|P0DPM4|Negative... at 75.61%
+7	78aa, >sp|P18511|Negative... at 58.97%
+>Cluster 1198
+0	82aa, >sp|X5IWS1|Negative... *
+1	72aa, >sp|P28881|Negative... at 61.11%
+2	72aa, >sp|P28880|Negative... at 55.56%
+3	71aa, >sp|P05484|Negative... at 64.79%
+>Cluster 1199
+0	78aa, >sp|P0DL75|Negative... at 91.03%
+1	82aa, >sp|P83562|Negative... *
+>Cluster 1200
+0	82aa, >sp|P83313|Negative... *
+1	82aa, >sp|F1AWB0|Negative... at 45.12%
+>Cluster 1201
+0	81aa, >sp|I3LGZ3|Negative... *
+1	81aa, >sp|Q6UWK7|Negative... at 58.02%
+>Cluster 1202
+0	80aa, >sp|Q9LXU0|Negative... *
+>Cluster 1203
+0	80aa, >sp|Q8S8N0|Negative... *
+>Cluster 1204
+0	80aa, >sp|W4VSB6|Negative... *
+1	74aa, >sp|W4VS16|Negative... at 74.32%
+>Cluster 1205
+0	80aa, >sp|Q6K209|Negative... *
+>Cluster 1206
+0	79aa, >sp|P00995|Negative... at 69.62%
+1	80aa, >sp|P09036|Negative... *
+2	79aa, >sp|P09655|Negative... at 65.82%
+>Cluster 1207
+0	79aa, >sp|A0A0G3F8Z3|Negative... *
+1	54aa, >sp|Q9BJX2|Negative... at 40.74%
+>Cluster 1208
+0	79aa, >sp|H2A0N7|Negative... *
+1	79aa, >sp|P86968|Negative... at 91.14%
+>Cluster 1209
+0	79aa, >sp|P83561|Negative... *
+>Cluster 1210
+0	79aa, >sp|P86146|Negative... *
+1	71aa, >sp|P86147|Negative... at 64.79%
+>Cluster 1211
+0	76aa, >sp|L0P323|Negative... at 76.32%
+1	78aa, >sp|E6ZBE2|Negative... *
+2	65aa, >sp|E4Z7G0|Negative... at 81.54%
+3	63aa, >sp|E1B245|Negative... at 49.21%
+4	68aa, >sp|G0LWV9|Negative... at 60.29%
+5	61aa, >sp|Q0VKG8|Negative... at 52.46%
+>Cluster 1212
+0	78aa, >sp|Q8MMH4|Negative... *
+>Cluster 1213
+0	71aa, >sp|A7WNV6|Negative... at 61.97%
+1	62aa, >sp|E7EKD0|Negative... at 50.00%
+2	62aa, >sp|A7WNV7|Negative... at 62.90%
+3	59aa, >sp|E7EKD4|Negative... at 52.54%
+4	60aa, >sp|E1AWD7|Negative... at 56.67%
+5	60aa, >sp|E1AWD8|Negative... at 51.67%
+6	59aa, >sp|B5A9S9|Negative... at 52.54%
+7	70aa, >sp|A7WNV4|Negative... at 55.71%
+8	74aa, >sp|E1AWD6|Negative... at 58.11%
+9	69aa, >sp|E1AWD5|Negative... at 53.62%
+10	67aa, >sp|B3VZU0|Negative... at 53.73%
+11	74aa, >sp|E1AXF5|Negative... at 62.16%
+12	69aa, >sp|E1AWD4|Negative... at 50.72%
+13	71aa, >sp|E7EKC4|Negative... at 45.07%
+14	70aa, >sp|A7WNV3|Negative... at 57.14%
+15	70aa, >sp|E1B241|Negative... at 57.14%
+16	66aa, >sp|P0C5W7|Negative... at 54.55%
+17	70aa, >sp|E1B240|Negative... at 54.29%
+18	72aa, >sp|A0AEI5|Negative... at 55.56%
+19	72aa, >sp|A0AEI6|Negative... at 56.94%
+20	63aa, >sp|K7ZGS2|Negative... at 53.97%
+21	75aa, >sp|Q2UXR2|Negative... at 60.00%
+22	66aa, >sp|G3ETQ2|Negative... at 46.97%
+23	61aa, >sp|E1B248|Negative... at 55.74%
+24	60aa, >sp|E1B247|Negative... at 50.00%
+25	76aa, >sp|E1B230|Negative... at 65.79%
+26	76aa, >sp|E1B243|Negative... at 61.84%
+27	78aa, >sp|A7WNV5|Negative... *
+28	76aa, >sp|E1AXF6|Negative... at 60.53%
+29	76aa, >sp|E1B242|Negative... at 63.16%
+30	68aa, >sp|Q2UXR4|Negative... at 55.88%
+31	78aa, >sp|Q2UXR1|Negative... at 56.41%
+32	76aa, >sp|Q2UXR3|Negative... at 57.89%
+33	62aa, >sp|Q2WCN5|Negative... at 50.00%
+34	66aa, >sp|P85071|Negative... at 54.55%
+35	73aa, >sp|Q2WCN8|Negative... at 57.53%
+36	74aa, >sp|Q2WCN7|Negative... at 55.41%
+37	74aa, >sp|Q2WCN6|Negative... at 54.05%
+38	68aa, >sp|P84276|Negative... at 77.94%
+39	71aa, >sp|G3ETQ3|Negative... at 50.70%
+40	71aa, >sp|G3F828|Negative... at 49.30%
+41	72aa, >sp|E1B231|Negative... at 56.94%
+42	69aa, >sp|A8DY01|Negative... at 44.93%
+43	69aa, >sp|A8B5P0|Negative... at 42.03%
+44	62aa, >sp|E1AXF9|Negative... at 56.45%
+45	67aa, >sp|P85070|Negative... at 62.69%
+>Cluster 1214
+0	77aa, >sp|W4VSG7|Negative... *
+>Cluster 1215
+0	77aa, >sp|Q9R0R3|Negative... *
+1	77aa, >sp|Q9TUI9|Negative... at 76.62%
+>Cluster 1216
+0	77aa, >sp|P0DPG6|Negative... *
+>Cluster 1217
+0	77aa, >sp|Q8LAD7|Negative... *
+>Cluster 1218
+0	77aa, >sp|P0DL38|Negative... *
+>Cluster 1219
+0	77aa, >sp|F8J4S0|Negative... *
+>Cluster 1220
+0	76aa, >sp|P24160|Negative... *
+1	63aa, >sp|P58786|Negative... at 42.86%
+2	63aa, >sp|P58787|Negative... at 44.44%
+3	70aa, >sp|Q9BPA9|Negative... at 51.43%
+>Cluster 1221
+0	76aa, >sp|H2A0M9|Negative... *
+>Cluster 1222
+0	76aa, >sp|P84843|Negative... *
+>Cluster 1223
+0	76aa, >sp|A0A2L0ART2|Negative... *
+>Cluster 1224
+0	76aa, >sp|Q6UWT2|Negative... *
+1	76aa, >sp|Q8K1D8|Negative... at 100.00%
+>Cluster 1225
+0	76aa, >sp|Q9V3J3|Negative... *
+>Cluster 1226
+0	76aa, >sp|D2Y171|Negative... *
+>Cluster 1227
+0	75aa, >sp|O49519|Negative... *
+>Cluster 1228
+0	75aa, >sp|P0C607|Negative... *
+1	71aa, >sp|S4UKA9|Negative... at 63.38%
+>Cluster 1229
+0	75aa, >sp|P0DJ08|Negative... *
+>Cluster 1230
+0	75aa, >sp|H2A0P3|Negative... *
+>Cluster 1231
+0	73aa, >sp|N0EAL3|Negative... at 79.45%
+1	75aa, >sp|P86407|Negative... *
+2	72aa, >sp|D9U2B5|Negative... at 81.94%
+>Cluster 1232
+0	75aa, >sp|Q9VBL6|Negative... *
+>Cluster 1233
+0	75aa, >sp|C5J888|Negative... *
+>Cluster 1234
+0	74aa, >sp|Q5Y4V2|Negative... *
+1	73aa, >sp|Q5Y4U8|Negative... at 78.08%
+2	74aa, >sp|Q5Y4V3|Negative... at 97.30%
+3	73aa, >sp|Q5Y4V6|Negative... at 79.45%
+4	70aa, >sp|Q5Y4U7|Negative... at 60.00%
+5	71aa, >sp|Q5Y4V8|Negative... at 52.11%
+6	70aa, >sp|Q5Y4U6|Negative... at 58.57%
+>Cluster 1235
+0	74aa, >sp|B8QG00|Negative... *
+>Cluster 1236
+0	74aa, >sp|B4YSU8|Negative... *
+>Cluster 1237
+0	69aa, >sp|A0A2I6EDM8|Negative... at 65.22%
+1	52aa, >sp|A0A2I6EDL4|Negative... at 51.92%
+2	65aa, >sp|P58846|Negative... at 56.92%
+3	68aa, >sp|Q9BPJ7|Negative... at 66.18%
+4	73aa, >sp|P0DKQ2|Negative... at 65.75%
+5	73aa, >sp|A0A2I6EDN5|Negative... at 53.42%
+6	51aa, >sp|P85021|Negative... at 41.18%
+7	72aa, >sp|P0DKP9|Negative... at 69.44%
+8	74aa, >sp|P01523|Negative... *
+9	64aa, >sp|A0A2I6EDL2|Negative... at 53.12%
+10	73aa, >sp|P0DKQ0|Negative... at 67.12%
+11	73aa, >sp|Q86DU6|Negative... at 63.01%
+>Cluster 1238
+0	74aa, >sp|Q8W261|Negative... *
+>Cluster 1239
+0	74aa, >sp|C0HK26|Negative... *
+>Cluster 1240
+0	74aa, >sp|I6RU32|Negative... *
+>Cluster 1241
+0	74aa, >sp|Q86QI5|Negative... *
+1	74aa, >sp|Q86LE4|Negative... at 83.78%
+>Cluster 1242
+0	74aa, >sp|A0A0A1I6E7|Negative... *
+1	74aa, >sp|C7B247|Negative... at 54.05%
+2	74aa, >sp|A0A0A1I6N9|Negative... at 95.95%
+>Cluster 1243
+0	72aa, >sp|D0PX84|Negative... at 90.28%
+1	73aa, >sp|D0PX85|Negative... *
+>Cluster 1244
+0	73aa, >sp|P86929|Negative... *
+>Cluster 1245
+0	72aa, >sp|P85213|Negative... *
+>Cluster 1246
+0	72aa, >sp|P0DJ41|Negative... *
+>Cluster 1247
+0	72aa, >sp|Q1PE40|Negative... *
+>Cluster 1248
+0	71aa, >sp|Q5EHP3|Negative... *
+1	69aa, >sp|Q2I2Q5|Negative... at 59.42%
+2	70aa, >sp|Q9BH73|Negative... at 80.00%
+3	71aa, >sp|Q9BPI0|Negative... at 87.32%
+4	71aa, >sp|P0C1N6|Negative... at 76.06%
+5	71aa, >sp|P0C425|Negative... at 95.77%
+>Cluster 1249
+0	71aa, >sp|H2A0N8|Negative... *
+>Cluster 1250
+0	64aa, >sp|P0DMF3|Negative... at 40.62%
+1	68aa, >sp|Q8MMJ7|Negative... at 85.29%
+2	69aa, >sp|C5J887|Negative... at 55.07%
+3	71aa, >sp|Q8MTX2|Negative... *
+4	68aa, >sp|C5J886|Negative... at 80.88%
+>Cluster 1251
+0	70aa, >sp|P14661|Negative... *
+>Cluster 1252
+0	70aa, >sp|Q9U3Z3|Negative... *
+1	67aa, >sp|Q7YZS9|Negative... at 52.24%
+>Cluster 1253
+0	70aa, >sp|P86110|Negative... *
+>Cluster 1254
+0	67aa, >sp|Q8T9R8|Negative... at 40.30%
+1	69aa, >sp|L7VIN3|Negative... *
+2	63aa, >sp|P83403|Negative... at 53.97%
+>Cluster 1255
+0	66aa, >sp|P60274|Negative... at 63.64%
+1	56aa, >sp|P56638|Negative... at 66.07%
+2	56aa, >sp|P0DM21|Negative... at 64.29%
+3	56aa, >sp|P56639|Negative... at 64.29%
+4	64aa, >sp|P56973|Negative... at 56.25%
+5	58aa, >sp|P58811|Negative... at 58.62%
+6	65aa, >sp|P0CE73|Negative... at 72.31%
+7	63aa, >sp|P0DPM1|Negative... at 60.32%
+8	68aa, >sp|P56636|Negative... at 64.71%
+9	69aa, >sp|F5C3U4|Negative... *
+10	62aa, >sp|P50982|Negative... at 70.97%
+11	61aa, >sp|D4HRK4|Negative... at 59.02%
+12	66aa, >sp|P85013|Negative... at 72.73%
+13	66aa, >sp|P69747|Negative... at 68.18%
+14	68aa, >sp|P55963|Negative... at 50.00%
+15	61aa, >sp|P0DPL9|Negative... at 73.77%
+16	69aa, >sp|P85886|Negative... at 71.01%
+17	58aa, >sp|P56640|Negative... at 63.79%
+>Cluster 1256
+0	69aa, >sp|Q8MVA6|Negative... *
+>Cluster 1257
+0	69aa, >sp|A0A0N7CSQ4|Negative... *
+>Cluster 1258
+0	69aa, >sp|B3SVF0|Negative... *
+>Cluster 1259
+0	68aa, >sp|A0A0E3SVE7|Negative... *
+>Cluster 1260
+0	59aa, >sp|Q867F4|Negative... at 44.07%
+1	68aa, >sp|P0C175|Negative... *
+2	59aa, >sp|Q8I0L5|Negative... at 45.76%
+>Cluster 1261
+0	68aa, >sp|O46168|Negative... *
+1	68aa, >sp|O46166|Negative... at 97.06%
+>Cluster 1262
+0	68aa, >sp|P60022|Negative... *
+>Cluster 1263
+0	68aa, >sp|P81941|Negative... *
+>Cluster 1264
+0	61aa, >sp|Q3YEH7|Negative... at 52.46%
+1	62aa, >sp|Q3YEE9|Negative... at 56.45%
+2	61aa, >sp|P58808|Negative... at 47.54%
+3	61aa, >sp|Q3YEE8|Negative... at 55.74%
+4	63aa, >sp|Q9U6Z6|Negative... at 53.97%
+5	54aa, >sp|P69765|Negative... at 46.30%
+6	66aa, >sp|Q6PN84|Negative... at 51.52%
+7	59aa, >sp|P0C2B1|Negative... at 50.85%
+8	61aa, >sp|P58809|Negative... at 50.82%
+9	59aa, >sp|P84845|Negative... at 59.32%
+10	67aa, >sp|Q9BPG6|Negative... *
+11	67aa, >sp|P81755|Negative... at 98.51%
+12	62aa, >sp|P0DPL8|Negative... at 48.39%
+13	64aa, >sp|Q6PN83|Negative... at 51.56%
+14	58aa, >sp|Q9BPH1|Negative... at 48.28%
+15	59aa, >sp|P0C2B0|Negative... at 49.15%
+16	55aa, >sp|P69768|Negative... at 56.36%
+17	62aa, >sp|Q1A3R1|Negative... at 56.45%
+>Cluster 1265
+0	67aa, >sp|P86483|Negative... *
+1	67aa, >sp|P86994|Negative... at 70.15%
+>Cluster 1266
+0	67aa, >sp|P0DL40|Negative... *
+>Cluster 1267
+0	66aa, >sp|Q86SC0|Negative... *
+>Cluster 1268
+0	66aa, >sp|P82172|Negative... *
+1	66aa, >sp|P82140|Negative... at 54.55%
+>Cluster 1269
+0	65aa, >sp|Q8WQK0|Negative... *
+>Cluster 1270
+0	65aa, >sp|Q8T0W8|Negative... *
+>Cluster 1271
+0	65aa, >sp|P0DJ34|Negative... *
+>Cluster 1272
+0	54aa, >sp|Q95NK7|Negative... at 40.74%
+1	64aa, >sp|P86399|Negative... *
+>Cluster 1273
+0	64aa, >sp|Q99134|Negative... *
+1	64aa, >sp|Q91826|Negative... at 96.88%
+>Cluster 1274
+0	63aa, >sp|Q8BTE6|Negative... *
+>Cluster 1275
+0	63aa, >sp|P62903|Negative... *
+1	63aa, >sp|P0C837|Negative... at 76.19%
+>Cluster 1276
+0	39aa, >sp|P86401|Negative... at 51.28%
+1	59aa, >sp|Q9UAD0|Negative... at 62.71%
+2	60aa, >sp|P83400|Negative... at 66.67%
+3	62aa, >sp|P81761|Negative... *
+4	59aa, >sp|Q9BJW4|Negative... at 62.71%
+>Cluster 1277
+0	62aa, >sp|P0C1X6|Negative... *
+>Cluster 1278
+0	62aa, >sp|B1P1B8|Negative... *
+1	62aa, >sp|P83974|Negative... at 96.77%
+2	62aa, >sp|B1P1B7|Negative... at 96.77%
+>Cluster 1279
+0	62aa, >sp|Q86QT3|Negative... *
+>Cluster 1280
+0	62aa, >sp|O46028|Negative... *
+>Cluster 1281
+0	61aa, >sp|Q8MMH5|Negative... *
+>Cluster 1282
+0	60aa, >sp|Q9NII7|Negative... at 71.67%
+1	61aa, >sp|C0HJQ4|Negative... *
+2	59aa, >sp|Q5K0E0|Negative... at 44.07%
+3	57aa, >sp|Q9BKB7|Negative... at 49.12%
+4	57aa, >sp|P59938|Negative... at 49.12%
+>Cluster 1283
+0	61aa, >sp|P84777|Negative... *
+1	57aa, >sp|P56219|Negative... at 42.11%
+>Cluster 1284
+0	58aa, >sp|C0HJQ8|Negative... at 55.17%
+1	59aa, >sp|B3EWY1|Negative... *
+2	59aa, >sp|P13487|Negative... at 50.85%
+3	57aa, >sp|Q9NII6|Negative... at 57.89%
+4	58aa, >sp|Q9NII5|Negative... at 56.90%
+5	59aa, >sp|P45628|Negative... at 49.15%
+6	59aa, >sp|D3JXM1|Negative... at 96.61%
+>Cluster 1285
+0	57aa, >sp|Q9XZG9|Negative... at 87.72%
+1	58aa, >sp|Q9XZH0|Negative... *
+>Cluster 1286
+0	58aa, >sp|P0DMC2|Negative... *
+1	54aa, >sp|P0DMC4|Negative... at 46.30%
+2	54aa, >sp|P0DMC3|Negative... at 51.85%
+>Cluster 1287
+0	57aa, >sp|A0A1L2FZD4|Negative... *
+1	57aa, >sp|P86400|Negative... at 80.70%
+2	57aa, >sp|Q9U8D2|Negative... at 78.95%
+3	57aa, >sp|C0HJQ5|Negative... at 77.19%
+4	57aa, >sp|P0CC12|Negative... at 87.72%
+>Cluster 1288
+0	57aa, >sp|H2A0N0|Negative... *
+>Cluster 1289
+0	56aa, >sp|Q6GU94|Negative... *
+>Cluster 1290
+0	56aa, >sp|P69391|Negative... *
+>Cluster 1291
+0	54aa, >sp|P81160|Negative... at 51.85%
+1	55aa, >sp|P05623|Negative... *
+>Cluster 1292
+0	54aa, >sp|Q00LT1|Negative... *
+>Cluster 1293
+0	52aa, >sp|P16548|Negative... *
+>Cluster 1294
+0	51aa, >sp|P15516|Negative... *
+>Cluster 1295
+0	50aa, >sp|A0A1W6EVN2|Negative... *
+1	30aa, >sp|A0A1W6EVN4|Negative... at 80.00%
+>Cluster 1296
+0	47aa, >sp|P0C7I2|Negative... *
+>Cluster 1297
+0	46aa, >sp|P83869|Negative... *
+>Cluster 1298
+0	46aa, >sp|P01500|Negative... *
+>Cluster 1299
+0	43aa, >sp|Q6YKB1|Negative... *
